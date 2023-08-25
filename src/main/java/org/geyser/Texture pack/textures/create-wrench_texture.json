@@ -1,0 +1,11 @@
+{
+  "resource_pack_name": "MY_PACK_NAME_HERE",
+  "texture_name": "atlas.items",
+  "texture_data": {"my_item": {
+    "textures": [
+        "textures/items/my_item"
+    ]
+}
+    
+  }
+}

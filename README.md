@@ -1,10 +1,9 @@
-# Geyser Extension Template
-A Geyser Extension template for creating Geyser Extensions.
+# Create Geyser addition
+Create mod and other addons ported to bedrock.
 
 ## Extension Features
-- Register [custom items](https://wiki.geysermc.org/geyser/custom-items/) in code
-- Listen and toggle various Bedrock features (i.e. commands)
-- Send forms to Bedrock players using [Cumulus](https://github.com/GeyserMC/Cumulus)
+-Allows to use create + addons
+-Unfinished
 
 ## Using this Template
 1. Create a new repository using this template
@@ -14,10 +13,13 @@ A Geyser Extension template for creating Geyser Extensions.
 5. Copy the built jar from `build/libs` to your Geyser's extensions folder
 
 ## Coming Soon
-- Custom blocks
-- Custom entities
-- Resource packs represented in code
+- Finish Porting base create mod
+- Finish porting create addons
 - 
+
+## Done plans
+-Finished 20% portations
+
 ## Existing Extensions
 See our list [here](https://github.com/GeyserMC/GeyserExtensionList).
 
