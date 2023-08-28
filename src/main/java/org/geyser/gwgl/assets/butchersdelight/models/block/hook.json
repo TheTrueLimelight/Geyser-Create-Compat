@@ -1,0 +1,9 @@
+{
+  "parent": "butchersdelight:custom/hook",
+  "textures": {
+    "all": "butchersdelight:blocks/i_hook",
+    "particle": "butchersdelight:blocks/hook",
+    "0": "butchersdelight:blocks/hook"
+  },
+  "render_type": "cutout_mipped"
+}

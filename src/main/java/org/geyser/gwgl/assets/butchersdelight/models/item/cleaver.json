@@ -1,0 +1,7 @@
+{
+  "parent": "butchersdelight:custom/cleaver",
+  "textures": {
+    "0": "butchersdelight:blocks/cleaver",
+    "particle": "butchersdelight:items/i_cleaver"
+  }
+}

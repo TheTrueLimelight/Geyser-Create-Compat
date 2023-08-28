@@ -1,0 +1,10 @@
+{
+  "parent": "create_train_additions:custom/hv.vs_slow",
+  "textures": {
+    "all": "create_train_additions:blocks/hv.vs.langsamfahrt",
+    "particle": "create_train_additions:blocks/hv.vs.langsamfahrt",
+    "0": "create_train_additions:blocks/girder",
+    "1": "create_train_additions:blocks/hv.vs.langsamfahrt"
+  },
+  "render_type": "solid"
+}

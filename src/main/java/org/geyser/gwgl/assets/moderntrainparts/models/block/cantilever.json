@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip-v": true,
+  "model": "moderntrainparts:models/block/cantilever.obj",
+  "textures": {
+    "texture0": "moderntrainparts:block/cantilever",
+    "particle": "minecraft:block/dirt"
+  }
+}

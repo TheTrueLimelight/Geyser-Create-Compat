@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_train_additions:block/trainglass"
+    },
+    "facing=east": {
+      "model": "create_train_additions:block/trainglass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_train_additions:block/trainglass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_train_additions:block/trainglass",
+      "y": 270
+    }
+  }
+}

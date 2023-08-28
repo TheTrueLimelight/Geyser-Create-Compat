@@ -1,0 +1,10 @@
+{
+  "parent": "create:block/scaffold/block_horizontal",
+  "textures": {
+    "top": "createindustry:block/aluminum_frame",
+    "inside": "createindustry:block/scaffold/aluminum_scaffold_inside",
+    "side": "createindustry:block/scaffold/aluminum_scaffold",
+    "casing": "createindustry:block/scaffold/aluminum_scaffold_top",
+    "particle": "createindustry:block/scaffold/aluminum_scaffold"
+  }
+}

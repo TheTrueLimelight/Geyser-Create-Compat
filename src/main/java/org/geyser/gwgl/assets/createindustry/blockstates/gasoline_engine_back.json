@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "createindustry:block/engines/gasoline_engine_back_vertical",
+      "x": 180
+    },
+    "facing=up": {
+      "model": "createindustry:block/engines/gasoline_engine_back_vertical"
+    },
+    "facing=north": {
+      "model": "createindustry:block/engines/gasoline_engine_back"
+
+    },
+    "facing=south": {
+      "model": "createindustry:block/engines/gasoline_engine_back",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createindustry:block/engines/gasoline_engine_back",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "createindustry:block/engines/gasoline_engine_back",
+      "y": 90
+    }
+  }
+}

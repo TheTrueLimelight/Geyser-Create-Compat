@@ -1,0 +1,9 @@
+{
+  "parent": "create_train_additions:custom/track",
+  "textures": {
+    "all": "create_train_additions:blocks/partikel",
+    "particle": "create_train_additions:blocks/partikel",
+    "1": "create_train_additions:blocks/standard_track"
+  },
+  "render_type": "cutout_mipped"
+}

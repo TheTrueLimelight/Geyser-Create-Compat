@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "create_deco_casing:blocks/copper_casing",
+    "top": "create_deco_casing:blocks/copper_casing",
+    "side": "create_deco_casing:blocks/copper_casing"
+  },
+  "render_type": "solid"
+}

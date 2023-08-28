@@ -1,0 +1,22 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "layer": "SOLID",
+        "textures": [
+            "create_deco_casing:blocks/shadow_steel_casing-ctm"
+        ],
+        "extra": {
+            "connect_to": [
+                { "block": "create_deco_casing:shadow_steel_casing_slab" },
+                { "block": "create_deco_casing:shadow_steel_casing_stairs" },
+                { "block": "create_deco_casing:shadow_steel_casing_trapdoor" },
+                { "block": "create_deco_casing:shadow_steel_casing_door" },
+                { "block": "create:shadow_steel_casing" },
+                { "block": "create:shadow_steel_encased_shaft" },
+                { "block": "create:shadow_steel_encased_large_cogwheel" },
+                { "block": "create:shadow_steel_encased_cogwheel" }
+            ]
+        }
+    }
+}

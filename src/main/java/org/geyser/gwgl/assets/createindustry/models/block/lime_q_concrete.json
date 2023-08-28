@@ -1,0 +1,7 @@
+
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "createindustry:block/lime_concrete_stage0"
+  }
+}

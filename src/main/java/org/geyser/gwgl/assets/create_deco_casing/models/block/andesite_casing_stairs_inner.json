@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "create_deco_casing:blocks/andesite_casing",
+    "top": "create_deco_casing:blocks/andesite_casing",
+    "side": "create_deco_casing:blocks/andesite_casing"
+  },
+  "render_type": "solid"
+}

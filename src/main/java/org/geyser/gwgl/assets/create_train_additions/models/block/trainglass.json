@@ -1,0 +1,10 @@
+{
+  "parent": "create_train_additions:custom/zugfenster_winkel",
+  "textures": {
+    "all": "create_train_additions:blocks/partikel",
+    "particle": "create_train_additions:blocks/partikel",
+    "1": "create_train_additions:blocks/texture",
+    "2": "create_train_additions:blocks/framed_glass_connected"
+  },
+  "render_type": "cutout_mipped"
+}

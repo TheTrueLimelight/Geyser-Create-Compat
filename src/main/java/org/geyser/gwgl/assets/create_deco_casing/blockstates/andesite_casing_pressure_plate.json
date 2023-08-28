@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "create_deco_casing:block/andesite_casing_pressure_plate"
+    },
+    "powered=true": {
+      "model": "create_deco_casing:block/andesite_casing_pressure_plate_down"
+    }
+  }
+}

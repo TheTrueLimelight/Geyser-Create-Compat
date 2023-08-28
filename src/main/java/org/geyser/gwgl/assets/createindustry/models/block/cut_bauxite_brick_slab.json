@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "createindustry:block/cut_bauxite_brick",
+    "top": "createindustry:block/cut_bauxite_brick",
+    "side": "createindustry:block/cut_bauxite_brick"
+  }
+}

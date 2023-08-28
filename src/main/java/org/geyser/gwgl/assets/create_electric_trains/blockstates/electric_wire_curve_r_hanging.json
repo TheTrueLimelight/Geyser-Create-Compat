@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_electric_trains:block/electric_wire_curve_r_hanging"
+    },
+    "facing=east": {
+      "model": "create_electric_trains:block/electric_wire_curve_r_hanging",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_electric_trains:block/electric_wire_curve_r_hanging",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_electric_trains:block/electric_wire_curve_r_hanging",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchersdelight:custom/dead_chicken_block",
+  "textures": {
+    "all": "butchersdelight:blocks/i_chicken",
+    "particle": "butchersdelight:blocks/i_chicken",
+    "0": "butchersdelight:blocks/dead_chicken"
+  },
+  "render_type": "cutout_mipped"
+}

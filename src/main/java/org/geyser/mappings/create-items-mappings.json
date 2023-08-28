@@ -1,9 +1,9 @@
 {"format_version": 1,
  "items": {
-	 "create:wrench":[{
-				"name": "wrench",
-				"custom_model_data": 6904200,
-				"texture_size": 16
+ "create:wrench":[{
+	 "name":"wrench"
+	 "custom_model_data":6904200,
+	 "texture_size":16
  }],
  "create:andesite_alloy":[{
 	 "name":"andesite_alloy"
@@ -90,73 +90,73 @@
 	 "custom_model_data":6904217,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:copper_ingot":[{
+	 "name":"copper_ingot"
 	 "custom_model_data":6904218,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:copper_nugget":[{
+	 "name":"copper_nugget"
 	 "custom_model_data":6904219,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:copper_sheet":[{
+	 "name":"copper_sheet"
 	 "custom_model_data":6904220,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:creative_blaze_cake":[{
+	 "name":"creative_blaze_cake"
 	 "custom_model_data":6904221,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_aluminum":[{
+	 "name":"crushed_raw_aluminum"
 	 "custom_model_data":6904222,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_copper":[{
+	 "name":"crushed_raw_copper"
 	 "custom_model_data":6904223,
 	 "texture_size":16
  }],
-"create:":[{
+"create:crushed_raw_gold":[{
 	 "name":""
 	 "custom_model_data":6904224,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_iron":[{
+	 "name":"crushed_raw_iron"
 	 "custom_model_data":6904225,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_lead":[{
+	 "name":"crushed_raw_lead"
 	 "custom_model_data":6904226,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_nickel":[{
+	 "name":"crushed_raw_nickel"
 	 "custom_model_data":6904227,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_osmium":[{
+	 "name":"crushed_raw_osmium"
 	 "custom_model_data":6904228,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_platinum":[{
+	 "name":"crushed_raw_platinum"
 	 "custom_model_data":6904229,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_quicksilver":[{
+	 "name":"crushed_raw_quicksilver"
 	 "custom_model_data":6904230,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_silver":[{
+	 "name":"crushed_raw_silver"
 	 "custom_model_data":6904231
 	 "texture_size":16
  }],
@@ -165,297 +165,351 @@
 	 "custom_model_data":6904232,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_tin":[{
+	 "name":"crushed_raw_tin"
 	 "custom_model_data":6904233,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_uranium":[{
+	 "name":"crushed_raw_uranium"
 	 "custom_model_data":6904234,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:crushed_raw_zinc":[{
+	 "name":"crushed_raw_zinc"
 	 "custom_model_data":6904235,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:dough":[{
+	 "name":"dough"
 	 "custom_model_data":6904236,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:electron_tube":[{
+	 "name":"electron_tube"
 	 "custom_model_data":6904237,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:empty_clipboard":[{
+	 "name":"empty_clipboard"
 	 "custom_model_data":6904238,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
+"create:empty_schematic":[{
+	 "name":"empty_schematic"
 	 "custom_model_data":6904239,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create:experience_nugget":[{
+	 "name":"experience_nugget"
+	 "custom_model_data":6904240,
+	 "texture_size":16
+ }],
+"create:extendo_grip":[{
+	 "name":"extendo_grip"
+	 "custom_model_data":6904241,
+	 "texture_size":16
+ }],
+"create:filter":[{
+	 "name":"filter"
+	 "custom_model_data":6904242,
+	 "texture_size":16
+ }],
+"create:furnace_minecart_contraption":[{
+	 "name":"furnace_minecart_contraption"
+	 "custom_model_data":6904243,
+	 "texture_size":16
+ }],
+"create:glass_door":[{
+	 "name":"glass_door"
+	 "custom_model_data":6904244,
+	 "texture_size":16
+ }],
+"create:goggles":[{
+	 "name":"goggles"
+	 "custom_model_data":6904245,
+	 "texture_size":16
+ }],
+"create:goggles_model":[{
+	 "name":"goggles_model"
+	 "custom_model_data":6904246,
+	 "texture_size":16
+ }],
+"create:golden_sheet":[{
+	 "name":"golden_sheet"
+	 "custom_model_data":6904247,
+	 "texture_size":16
+ }],
+"create:honey_bucket":[{
+	 "name":"honey_bucket"
+	 "custom_model_data":6904248,
+	 "texture_size":16
+ }],
+"create:honeyed_apple":[{
+	 "name":"honeyed_apple"
+	 "custom_model_data":6904249,
+	 "texture_size":16
+ }],
+"create:incomplete_precision_mechanism":[{
+	 "name":"incomplete_precision_mechanism"
+	 "custom_model_data":6904250,
+	 "texture_size":16
+ }],
+"create:incomplete_track":[{
+	 "name":"incomplete_track"
+	 "custom_model_data":6904251,
+	 "texture_size":16
+ }],
+"create:integrated_circuit":[{
+	 "name":"integrated_circuit"
+	 "custom_model_data":6904252,
+	 "texture_size":16
+ }],
+"create:iron_sheet":[{
+	 "name":"iron_sheet"
+	 "custom_model_data":6904253,
+	 "texture_size":16
+ }],
+"create:lapis_sheet":[{
+	 "name":"lapis_sheet"
+	 "custom_model_data":6904254,
+	 "texture_size":16
+ }],
+"create:linked_controller":[{
+	 "name":"linked_controller"
+	 "custom_model_data":6904256,
+	 "texture_size":16
+ }],
+"create:linked_controller_powered":[{
+	 "name":"linked_controller_powered"
+	 "custom_model_data":6904257,
+	 "texture_size":16
+ }],
+"create:logistical_dial":[{
+	 "name":"logistical_dial"
+	 "custom_model_data":6904258,
+	 "texture_size":16
+ }],
+"create:logistical_dial_overlay":[{
+	 "name":"logistical_dial_overlay"
+	 "custom_model_data":6904259,
+	 "texture_size":16
+ }],
+"create:minecart_coupling":[{
+	 "name":"minecart_coupling"
+	 "custom_model_data":6904260,
+	 "texture_size":16
+ }],
+"create:netherite_diving_boots":[{
+	 "name":"netherite_diving_boots"
+	 "custom_model_data":6904261,
+	 "texture_size":16
+ }],
+"create:netherite_diving_helmet":[{
+	 "name":"netherite_diving_helmet"
+	 "custom_model_data":6904262,
+	 "texture_size":16
+ }],
+"create:polished_rose_quartz":[{
+	 "name":"polished_rose_quartz"
+	 "custom_model_data":6904263,
+	 "texture_size":16
+ }],
+"create:potato_cannon":[{
+	 "name":"potato_cannon"
+	 "custom_model_data":6904264,
+	 "texture_size":16
+ }],
+"create:powdered_obsidian":[{
+	 "name":"powdered_obsidian"
+	 "custom_model_data":6904265,
+	 "texture_size":16
+ }],
+"create:precision_mechanism":[{
+	 "name":"precision_mechanism"
+	 "custom_model_data":6904266,
+	 "texture_size":16
+ }],
+"create:propeller":[{
+	 "name":"propeller"
+	 "custom_model_data":6904267,
+	 "texture_size":16
+ }],
+"create:propeller":[{
+	 "name":"propeller"
+	 "custom_model_data":6904268,
+	 "texture_size":16
+ }],
+"create:raw_zinc":[{
+	 "name":"raw_zinc"
+	 "custom_model_data":6904269,
+	 "texture_size":16
+ }],
+"create:red_sand_paper":[{
+	 "name":"red_sand_paper"
+	 "custom_model_data":6904270,
+	 "texture_size":16
+ }],
+"create:refined_radiance":[{
+	 "name":"refined_radiance"
+	 "custom_model_data":6904271,
+	 "texture_size":16
+ }],
+"create:rose_quartz":[{
+	 "name":"rose_quartz"
+	 "custom_model_data":6904272,
+	 "texture_size":16
+ }],
+"create:sand_paper":[{
+	 "name":"sand_paper"
+	 "custom_model_data":6904273,
+	 "texture_size":16
+ }],
+"create:schedule":[{
+	 "name":"schedule"
+	 "custom_model_data":6904274,
+	 "texture_size":16
+ }],
+"create:schematic":[{
+	 "name":"schematic"
+	 "custom_model_data":6904275,
+	 "texture_size":16
+ }],
+"create:schematic_and_quill":[{
+	 "name":"schematic_and_quill"
+	 "custom_model_data":6904276,
+	 "texture_size":16
+ }],
+"create:shadow_steel":[{
+	 "name":"shadow_steel"
+	 "custom_model_data":6904277,
+	 "texture_size":16
+ }],
+"create:sturdy_sheet":[{
+	 "name":"sturdy_sheet"
+	 "custom_model_data":6904278,
+	 "texture_size":16
+ }],
+"create:super_glue":[{
+	 "name":"super_glue"
+	 "custom_model_data":6904279,
+	 "texture_size":16
+ }],
+"create:sweet_roll":[{
+	 "name":"sweet_roll"
+	 "custom_model_data":6904280,
+	 "texture_size":16
+ }],
+"create:track":[{
+	 "name":"track"
+	 "custom_model_data":6904281,
+	 "texture_size":16
+ }],
+"create:train_door":[{
+	 "name":"train_door"
+	 "custom_model_data":6904282,
+	 "texture_size":16
+ }],
+"create:tree_fertilizer":[{
+	 "name":"tree_fertilizer"
+	 "custom_model_data":6904283,
+	 "texture_size":16
+ }],
+"create:unprocessed_obsidian_sheet":[{
+	 "name":"unprocessed_obsidian_sheet"
+	 "custom_model_data":6904284,
+	 "texture_size":16
+ }],
+"create:wheat_flour":[{
+	 "name":"wheat_flour"
+	 "custom_model_data":6904285,
+	 "texture_size":16
+ }],
+"create:whisk":[{
+	 "name":"whisk"
+	 "custom_model_data":6904286,
+	 "texture_size":16
+ }],
+"create:zinc_ingot":[{
+	 "name":"zinc_ingot"
+	 "custom_model_data":6904287,
+	 "texture_size":16
+ }],
+"create:zinc_nugget":[{
+	 "name":"zinc_nugget"
+	 "custom_model_data":6904288,
 	 "texture_size":16
  }],
 "create:":[{
 	 "name":""
-	 "custom_model_data":6904214,
+	 "custom_model_data":6904289,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_crush_everything:diamond_shard":[{
+	 "name":"diamond_shard"
+	 "custom_model_data":6904290,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_crush_everything:feather_fluff":[{
+	 "name":"feather_fluff"
+	 "custom_model_data":6904291,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_crush_everything:netherite_shard":[{
+	 "name":"netherite_shard"
+	 "custom_model_data":6904292,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_deco_casing:andesite_block_door":[{
+	 "name":"andesite_block_door"
+	 "custom_model_data":6904293,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_deco_casing:andesite_casing_door":[{
+	 "name":"andesite_casing_door"
+	 "custom_model_data":6904294,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_deco_casing:brass_casing_door":[{
+	 "name":"brass_casing_door"
+	 "custom_model_data":6904295,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_deco_casing:copper_casing_door":[{
+	 "name":"copper_casing_door"
+	 "custom_model_data":6904296,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_deco_casing:experience_block_door":[{
+	 "name":"experience_block_door"
+	 "custom_model_data":6904297,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_deco_casing:powdered_obsidian":[{
+	 "name":"powdered_obsidian"
+	 "custom_model_data":6904298,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_deco_casing:refined_radiance_casing_door":[{
+	 "name":"refined_radiance_casing_door"
+	 "custom_model_data":6904299,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_deco_casing:shadow_steel_casing_door":[{
+	 "name":"shadow_steel_casing_door"
+	 "custom_model_data":6904300,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_deco_casing:sturdy_sheet":[{
+	 "name":"sturdy_sheet"
+	 "custom_model_data":6904301,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
+"create_deco_casing:train_casing_door":[{
+	 "name":"train_casing_door"
+	 "custom_model_data":69042,
 	 "texture_size":16
  }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-"create:":[{
-	 "name":""
-	 "custom_model_data":6904214,
-	 "texture_size":16
- }],
-
-
- 
- 
-
-
-
-
-
- 
- 
 }
 }
  

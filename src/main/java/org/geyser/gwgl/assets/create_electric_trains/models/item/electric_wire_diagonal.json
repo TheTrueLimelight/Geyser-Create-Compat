@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "create_electric_trains:items/eldiagonal"
+  },
+  "render_type": "translucent"
+}

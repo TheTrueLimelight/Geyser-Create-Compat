@@ -1,0 +1,22 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "layer": "SOLID",
+        "textures": [
+            "create_deco_casing:blocks/brass_casing-ctm"
+        ],
+        "extra": {
+            "connect_to": [
+                { "block": "create_deco_casing:brass_casing_slab" },
+                { "block": "create_deco_casing:brass_casing_stairs" },
+                { "block": "create_deco_casing:brass_casing_trapdoor" },
+                { "block": "create_deco_casing:brass_casing_door" },
+                { "block": "create:brass_casing" },
+                { "block": "create:brass_encased_shaft" },
+                { "block": "create:brass_encased_large_cogwheel" },
+                { "block": "create:brass_encased_cogwheel" }
+            ]
+        }
+    }
+}

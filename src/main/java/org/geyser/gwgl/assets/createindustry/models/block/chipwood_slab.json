@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "createindustry:block/chipwood",
+    "top": "createindustry:block/chipwood",
+    "side": "createindustry:block/chipwood"
+  }
+}

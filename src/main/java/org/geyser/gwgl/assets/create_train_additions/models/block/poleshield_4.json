@@ -1,0 +1,10 @@
+{
+  "parent": "create_train_additions:custom/mastschild_4",
+  "textures": {
+    "all": "create_train_additions:blocks/mastschild4",
+    "particle": "create_train_additions:blocks/mastschild4",
+    "1": "create_train_additions:blocks/mastschild4",
+    "2": "create_train_additions:blocks/girder"
+  },
+  "render_type": "solid"
+}

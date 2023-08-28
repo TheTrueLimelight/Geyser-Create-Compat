@@ -1,0 +1,7 @@
+{
+  "parent": "butchersdelight:custom/dead_cow",
+  "textures": {
+    "0": "butchersdelight:blocks/dead_cow",
+    "particle": "butchersdelight:items/i_hookedcow"
+  }
+}

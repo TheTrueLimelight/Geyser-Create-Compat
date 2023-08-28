@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "textures": {
+    "bottom": "createindustry:block/heavy_plated_door_bottom",
+    "top": "createindustry:block/heavy_plated_door_top"
+  }
+}

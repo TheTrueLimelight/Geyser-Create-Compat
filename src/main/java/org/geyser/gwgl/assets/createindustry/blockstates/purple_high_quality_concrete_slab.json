@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createindustry:block/purple_concrete_slab"
+    },
+    "type=double": {
+      "model": "createindustry:block/purple_q_concrete"
+    },
+    "type=top": {
+      "model": "createindustry:block/purple_concrete_slab_top"
+    }
+  }
+}

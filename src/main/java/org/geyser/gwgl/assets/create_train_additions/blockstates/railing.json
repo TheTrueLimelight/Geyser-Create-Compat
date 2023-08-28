@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_train_additions:block/railing"
+    },
+    "facing=east": {
+      "model": "create_train_additions:block/railing",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_train_additions:block/railing",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_train_additions:block/railing",
+      "y": 270
+    }
+  }
+}

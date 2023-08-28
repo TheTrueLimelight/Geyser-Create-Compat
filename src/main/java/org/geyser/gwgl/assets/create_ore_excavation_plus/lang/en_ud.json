@@ -1,0 +1,43 @@
+{
+  "item.create_ore_excavation_plus.cut_raw_diamond": "puoɯɐıᗡ ʇnƆ ʍɐᴚ",
+  "item.create_ore_excavation_plus.pressed_raw_diamond": "puoɯɐıᗡ ʍɐᴚ pǝssǝɹԀ",
+  "item.create_ore_excavation_plus.cut_raw_emerald": "pןɐɹǝɯƎ ʇnƆ ʍɐᴚ",
+  "item.create_ore_excavation_plus.pressed_raw_emerald": "pןɐɹǝɯƎ ʍɐᴚ pǝssǝɹԀ",
+  "item.create_ore_excavation_plus.heated_raw_diamond": "puoɯɐıᗡ ʍɐᴚ pǝʇɐǝH",
+  "item.create_ore_excavation_plus.raw_diamond_dust": "ʇsnᗡ puoɯɐıᗡ",
+  "item.create_ore_excavation_plus.washed_raw_diamond": "puoɯɐıᗡ ʍɐᴚ pǝɥsɐM",
+  "item.create_ore_excavation_plus.heated_raw_emerald": "pןɐɹǝɯƎ ʍɐᴚ pǝʇɐǝH",
+  "item.create_ore_excavation_plus.raw_emerald_dust": "ʇsnᗡ pןɐɹǝɯƎ",
+  "item.create_ore_excavation_plus.washed_raw_emerald": "pןɐɹǝɯƎ ʍɐᴚ pǝɥsɐM",
+  "item.create_ore_excavation_plus.burned_netherite_scrap": "dɐɹɔS ǝʇıɹǝɥʇǝN pǝuɹnᗺ",
+  "item.create_ore_excavation_plus.raw_netherite_scrap": "dɐɹɔS ǝʇıɹǝɥʇǝN ʍɐᴚ",
+  "item.create_ore_excavation_plus.ultimate_drill": "ןןıɹᗡ ǝʇɐɯıʇןn",
+  "item.create_ore_excavation_plus.haunted_raw_netherite_scrap": "dɐɹɔS ǝʇıɹǝɥʇǝN ʍɐᴚ pǝʇunɐH",
+  "item.create_ore_excavation_plus.fired_netherite_scrap": "dɐɹɔS ǝʇıɹǝɥʇǝN pǝɹıℲ",
+  "item.create_ore_excavation_plus.lavad_netherite_scrap": "dɐɹɔS ǝʇıɹǝɥʇǝN pɐʌɐꞀ",
+  "item.create_ore_excavation_plus.crushed_redstone": "ǝuoʇspǝᴚ pǝɥsnɹƆ",
+  "item.create_ore_excavation_plus.raw_lapis_lazuli": "ıןnzɐꞀ sıdɐꞀ ʍɐᴚ",
+  "item.create_ore_excavation_plus.crushed_lapis_lazuli": "ıןnzɐꞀ sıdɐꞀ pǝɥsnɹƆ",
+  "item.create_ore_excavation_plus.enchanted_lapis_lazuli": "ıןnzɐꞀ sıdɐꞀ pǝʇuɐɥɔuƎ",
+
+
+
+  "itemGroup.create_ore_excavation_plus_tab": "qɐ⟘ snןԀ uoıʇɐʌɐɔxƎ ǝɹO ǝʇɐǝɹƆ",
+
+  "_": "<--- advancements --->",
+  "advancement.create_ore_excavation_plus.vein_finder": "¿suıǝΛ",
+  "advancement.create_ore_excavation_plus.vein_finder.desc": "ɹǝpuıɟ uıǝʌ ɐ ǝʞɐW",
+  "advancement.create_ore_excavation_plus.drilling_machine": "ʃʃıɹp sʇǝꞀ",
+  "advancement.create_ore_excavation_plus.drilling_machine.desc": "ǝuıɥɔɐɯ buıʃʃıɹp ɐ ǝʇɐǝɹƆ",
+  "advancement.create_ore_excavation_plus.extractor": "spınʃɟ ʇɔɐɹʇxǝ s,ʇǝꞀ",
+  "advancement.create_ore_excavation_plus.extractor.desc": "ɹoʇɔɐɹʇxǝ uɐ ǝʇɐǝɹƆ",
+  "advancement.create_ore_excavation_plus.diamond_drill": "¿puoɯɐıp s,ʇI",
+  "advancement.create_ore_excavation_plus.diamond_drill.desc": "ʃʃıɹp puoɯɐıp ɐ ǝʇɐǝɹƆ",
+  "advancement.create_ore_excavation_plus.raw_ore": "¡ʃʃǝʍ-ɯnıpǝɯ pıɐs I",
+  "advancement.create_ore_excavation_plus.raw_ore.desc": "ǝɹo ʍɐɹ ɐ uıɐʇqO",
+  "advancement.create_ore_excavation_plus.ultimate_drill": "¿ǝuO ǝʇɐɯıʇʃn ǝɥ⟘",
+  "advancement.create_ore_excavation_plus.ultimate_drill.desc": "ʃʃıɹp ǝʇɐɯıʇʃn uɐ ǝʇɐǝɹƆ",
+  "advancement.create_ore_excavation_plus.raw_netherite_scrap": "♬ ǝʇıɹǝɥʇǝN ♬",
+  "advancement.create_ore_excavation_plus.raw_netherite_scrap.desc": "ǝʇıɹǝɥʇǝN ʍɐᴚ uıɐʇqO"
+
+}

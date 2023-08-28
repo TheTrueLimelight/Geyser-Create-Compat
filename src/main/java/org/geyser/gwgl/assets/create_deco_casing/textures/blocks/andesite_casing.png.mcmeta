@@ -1,0 +1,24 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "layer": "SOLID",
+        "textures": [
+            "create_deco_casing:blocks/andesite_casing-ctm"
+        ],
+        "extra": {
+            "connect_to": [
+                { "block": "create_deco_casing:andesite_casing_slab" },
+                { "block": "create_deco_casing:andesite_casing_stairs" },
+                { "block": "create_deco_casing:andesite_casing_trapdoor" },
+                { "block": "create_deco_casing:andesite_casing_door" },
+                { "block": "create:andesite_casing" },
+                { "block": "create:andesite_encased_shaft" },
+                { "block": "create:andesite_encased_large_cogwheel" },
+                { "block": "create:andesite_encased_cogwheel" },
+                { "block": "create:gearbox" },
+                { "block": "create:vertical_gearbox" }
+            ]
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "create_train_additions:block/platformoverblue"
+    },
+    "face=floor,facing=east": {
+      "model": "create_train_additions:block/platformoverblue",
+      "y": 90
+    },
+    "face=floor,facing=south": {
+      "model": "create_train_additions:block/platformoverblue",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "create_train_additions:block/platformoverblue",
+      "y": 270
+    },
+    "face=wall,facing=north": {
+      "model": "create_train_additions:block/platformoverblue",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "create_train_additions:block/platformoverblue",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "create_train_additions:block/platformoverblue",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "create_train_additions:block/platformoverblue",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "create_train_additions:block/platformoverblue",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "create_train_additions:block/platformoverblue",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south": {
+      "model": "create_train_additions:block/platformoverblue",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "create_train_additions:block/platformoverblue",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

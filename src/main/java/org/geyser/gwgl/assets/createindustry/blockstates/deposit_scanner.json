@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createindustry:block/deposit_scanner"
+
+    },
+    "facing=south": {
+      "model": "createindustry:block/deposit_scanner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createindustry:block/deposit_scanner",
+      "y": 270
+
+    },
+    "facing=east": {
+      "model": "createindustry:block/deposit_scanner",
+      "y": 90
+
+    }
+  }
+
+}

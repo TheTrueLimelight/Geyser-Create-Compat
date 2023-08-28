@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "create_deco_casing:blocks/shadow_steel_casing"
+  },
+  "render_type": "solid"
+}

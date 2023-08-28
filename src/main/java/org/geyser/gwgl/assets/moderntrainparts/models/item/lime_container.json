@@ -1,0 +1,6 @@
+{
+  "parent": "moderntrainparts:item/container_item",
+  "textures": {
+    "layer0": "moderntrainparts:item/container/lime"
+  }
+}

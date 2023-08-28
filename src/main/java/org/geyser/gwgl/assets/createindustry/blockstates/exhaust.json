@@ -1,0 +1,32 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "createindustry:block/exhaust"
+    },
+    "facing=down": {
+      "model": "createindustry:block/exhaust",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "createindustry:block/exhaust",
+      "y": 90,
+      "x": 90
+    },
+    "facing=north": {
+      "model": "createindustry:block/exhaust",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "createindustry:block/exhaust",
+      "y": 180,
+      "x": 90
+    },
+    "facing=west": {
+      "model": "createindustry:block/exhaust",
+      "y": 270,
+      "x": 90
+    }
+  }
+
+
+}

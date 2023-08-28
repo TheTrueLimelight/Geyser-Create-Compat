@@ -1,0 +1,10 @@
+{
+  "parent": "create_train_additions:custom/small_pole_fundament",
+  "textures": {
+    "all": "create_train_additions:blocks/andesite_casing",
+    "particle": "create_train_additions:blocks/andesite_casing",
+    "2": "create_train_additions:blocks/andesite_casing_connected",
+    "3": "create_train_additions:blocks/andesite_casing_short"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,44 @@
+{
+  "fire_autocannon": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "minecraft:entity.generic.explode"
+      }
+    ],
+    "subtitle": "createbigcannons.subtitle.fire_autocannon"
+  },
+  "fire_big_cannon": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "minecraft:entity.generic.explode"
+      }
+    ],
+    "subtitle": "createbigcannons.subtitle.fire_big_cannon"
+  },
+  "fire_big_cannon_compounded_1": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "minecraft:entity.generic.explode"
+      }
+    ]
+  },
+  "fire_big_cannon_compounded_2": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "minecraft:entity.generic.explode"
+      }
+    ]
+  },
+  "place_autocannon_ammo_container": {
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_iron",
+        "type": "event"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "create_train_additions:custom/zsseven_on",
+  "textures": {
+    "all": "create_train_additions:blocks/zsseven.on",
+    "particle": "create_train_additions:blocks/zsseven.on",
+    "0": "create_train_additions:blocks/girder",
+    "1": "create_train_additions:blocks/zsseven.on"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,2404 @@
+{
+  "variants": {
+    "color=0,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-black",
+      "y": 90
+    },
+    "color=0,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-black",
+      "y": 90
+    },
+    "color=0,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-black",
+      "y": 90
+    },
+    "color=0,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-black",
+      "y": 90
+    },
+    "color=0,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-black",
+      "y": 90
+    },
+    "color=0,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-black",
+      "y": 90
+    },
+    "color=0,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-black",
+      "y": 90
+    },
+    "color=0,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-black",
+      "y": 90
+    },
+    "color=0,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-black",
+      "y": 90
+    },
+    "color=0,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-black",
+      "y": 90
+    },
+    "color=0,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-black"
+    },
+    "color=0,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-black"
+    },
+    "color=0,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-black"
+    },
+    "color=0,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-black"
+    },
+    "color=0,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-black"
+    },
+    "color=0,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-black"
+    },
+    "color=0,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-black"
+    },
+    "color=0,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-black"
+    },
+    "color=0,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-black"
+    },
+    "color=0,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-black"
+    },
+    "color=0,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-black",
+      "y": 180
+    },
+    "color=0,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-black",
+      "y": 180
+    },
+    "color=0,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-black",
+      "y": 180
+    },
+    "color=0,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-black",
+      "y": 180
+    },
+    "color=0,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-black",
+      "y": 180
+    },
+    "color=0,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-black",
+      "y": 180
+    },
+    "color=0,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-black",
+      "y": 180
+    },
+    "color=0,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-black",
+      "y": 180
+    },
+    "color=0,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-black",
+      "y": 180
+    },
+    "color=0,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-black",
+      "y": 180
+    },
+    "color=0,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-black",
+      "y": 270
+    },
+    "color=0,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-black",
+      "y": 270
+    },
+    "color=0,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-black",
+      "y": 270
+    },
+    "color=0,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-black",
+      "y": 270
+    },
+    "color=0,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-black",
+      "y": 270
+    },
+    "color=0,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-black",
+      "y": 270
+    },
+    "color=0,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-black",
+      "y": 270
+    },
+    "color=0,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-black",
+      "y": 270
+    },
+    "color=0,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-black",
+      "y": 270
+    },
+    "color=0,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-black",
+      "y": 270
+    },
+    "color=1,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-blue",
+      "y": 90
+    },
+    "color=1,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-blue",
+      "y": 90
+    },
+    "color=1,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-blue",
+      "y": 90
+    },
+    "color=1,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-blue",
+      "y": 90
+    },
+    "color=1,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-blue",
+      "y": 90
+    },
+    "color=1,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-blue",
+      "y": 90
+    },
+    "color=1,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-blue",
+      "y": 90
+    },
+    "color=1,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-blue",
+      "y": 90
+    },
+    "color=1,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-blue",
+      "y": 90
+    },
+    "color=1,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-blue",
+      "y": 90
+    },
+    "color=1,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-blue"
+    },
+    "color=1,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-blue"
+    },
+    "color=1,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-blue"
+    },
+    "color=1,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-blue"
+    },
+    "color=1,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-blue"
+    },
+    "color=1,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-blue"
+    },
+    "color=1,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-blue"
+    },
+    "color=1,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-blue"
+    },
+    "color=1,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-blue"
+    },
+    "color=1,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-blue"
+    },
+    "color=1,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-blue",
+      "y": 180
+    },
+    "color=1,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-blue",
+      "y": 180
+    },
+    "color=1,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-blue",
+      "y": 180
+    },
+    "color=1,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-blue",
+      "y": 180
+    },
+    "color=1,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-blue",
+      "y": 180
+    },
+    "color=1,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-blue",
+      "y": 180
+    },
+    "color=1,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-blue",
+      "y": 180
+    },
+    "color=1,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-blue",
+      "y": 180
+    },
+    "color=1,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-blue",
+      "y": 180
+    },
+    "color=1,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-blue",
+      "y": 180
+    },
+    "color=1,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-blue",
+      "y": 270
+    },
+    "color=1,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-blue",
+      "y": 270
+    },
+    "color=1,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-blue",
+      "y": 270
+    },
+    "color=1,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-blue",
+      "y": 270
+    },
+    "color=1,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-blue",
+      "y": 270
+    },
+    "color=1,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-blue",
+      "y": 270
+    },
+    "color=1,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-blue",
+      "y": 270
+    },
+    "color=1,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-blue",
+      "y": 270
+    },
+    "color=1,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-blue",
+      "y": 270
+    },
+    "color=1,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-blue",
+      "y": 270
+    },
+    "color=10,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-orange",
+      "y": 90
+    },
+    "color=10,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-orange",
+      "y": 90
+    },
+    "color=10,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-orange",
+      "y": 90
+    },
+    "color=10,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-orange",
+      "y": 90
+    },
+    "color=10,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-orange",
+      "y": 90
+    },
+    "color=10,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-orange",
+      "y": 90
+    },
+    "color=10,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-orange",
+      "y": 90
+    },
+    "color=10,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-orange",
+      "y": 90
+    },
+    "color=10,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-orange",
+      "y": 90
+    },
+    "color=10,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-orange",
+      "y": 90
+    },
+    "color=10,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-orange"
+    },
+    "color=10,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-orange"
+    },
+    "color=10,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-orange"
+    },
+    "color=10,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-orange"
+    },
+    "color=10,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-orange"
+    },
+    "color=10,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-orange"
+    },
+    "color=10,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-orange"
+    },
+    "color=10,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-orange"
+    },
+    "color=10,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-orange"
+    },
+    "color=10,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-orange"
+    },
+    "color=10,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-orange",
+      "y": 180
+    },
+    "color=10,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-orange",
+      "y": 180
+    },
+    "color=10,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-orange",
+      "y": 180
+    },
+    "color=10,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-orange",
+      "y": 180
+    },
+    "color=10,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-orange",
+      "y": 180
+    },
+    "color=10,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-orange",
+      "y": 180
+    },
+    "color=10,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-orange",
+      "y": 180
+    },
+    "color=10,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-orange",
+      "y": 180
+    },
+    "color=10,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-orange",
+      "y": 180
+    },
+    "color=10,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-orange",
+      "y": 180
+    },
+    "color=10,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-orange",
+      "y": 270
+    },
+    "color=10,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-orange",
+      "y": 270
+    },
+    "color=10,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-orange",
+      "y": 270
+    },
+    "color=10,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-orange",
+      "y": 270
+    },
+    "color=10,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-orange",
+      "y": 270
+    },
+    "color=10,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-orange",
+      "y": 270
+    },
+    "color=10,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-orange",
+      "y": 270
+    },
+    "color=10,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-orange",
+      "y": 270
+    },
+    "color=10,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-orange",
+      "y": 270
+    },
+    "color=10,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-orange",
+      "y": 270
+    },
+    "color=11,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-pink",
+      "y": 90
+    },
+    "color=11,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-pink",
+      "y": 90
+    },
+    "color=11,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-pink",
+      "y": 90
+    },
+    "color=11,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-pink",
+      "y": 90
+    },
+    "color=11,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-pink",
+      "y": 90
+    },
+    "color=11,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-pink",
+      "y": 90
+    },
+    "color=11,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-pink",
+      "y": 90
+    },
+    "color=11,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-pink",
+      "y": 90
+    },
+    "color=11,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-pink",
+      "y": 90
+    },
+    "color=11,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-pink",
+      "y": 90
+    },
+    "color=11,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-pink"
+    },
+    "color=11,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-pink"
+    },
+    "color=11,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-pink"
+    },
+    "color=11,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-pink"
+    },
+    "color=11,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-pink"
+    },
+    "color=11,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-pink"
+    },
+    "color=11,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-pink"
+    },
+    "color=11,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-pink"
+    },
+    "color=11,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-pink"
+    },
+    "color=11,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-pink"
+    },
+    "color=11,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-pink",
+      "y": 180
+    },
+    "color=11,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-pink",
+      "y": 180
+    },
+    "color=11,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-pink",
+      "y": 180
+    },
+    "color=11,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-pink",
+      "y": 180
+    },
+    "color=11,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-pink",
+      "y": 180
+    },
+    "color=11,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-pink",
+      "y": 180
+    },
+    "color=11,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-pink",
+      "y": 180
+    },
+    "color=11,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-pink",
+      "y": 180
+    },
+    "color=11,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-pink",
+      "y": 180
+    },
+    "color=11,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-pink",
+      "y": 180
+    },
+    "color=11,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-pink",
+      "y": 270
+    },
+    "color=11,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-pink",
+      "y": 270
+    },
+    "color=11,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-pink",
+      "y": 270
+    },
+    "color=11,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-pink",
+      "y": 270
+    },
+    "color=11,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-pink",
+      "y": 270
+    },
+    "color=11,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-pink",
+      "y": 270
+    },
+    "color=11,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-pink",
+      "y": 270
+    },
+    "color=11,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-pink",
+      "y": 270
+    },
+    "color=11,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-pink",
+      "y": 270
+    },
+    "color=11,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-pink",
+      "y": 270
+    },
+    "color=12,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-purple",
+      "y": 90
+    },
+    "color=12,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-purple",
+      "y": 90
+    },
+    "color=12,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-purple",
+      "y": 90
+    },
+    "color=12,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-purple",
+      "y": 90
+    },
+    "color=12,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-purple",
+      "y": 90
+    },
+    "color=12,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-purple",
+      "y": 90
+    },
+    "color=12,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-purple",
+      "y": 90
+    },
+    "color=12,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-purple",
+      "y": 90
+    },
+    "color=12,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-purple",
+      "y": 90
+    },
+    "color=12,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-purple",
+      "y": 90
+    },
+    "color=12,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-purple"
+    },
+    "color=12,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-purple"
+    },
+    "color=12,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-purple"
+    },
+    "color=12,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-purple"
+    },
+    "color=12,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-purple"
+    },
+    "color=12,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-purple"
+    },
+    "color=12,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-purple"
+    },
+    "color=12,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-purple"
+    },
+    "color=12,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-purple"
+    },
+    "color=12,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-purple"
+    },
+    "color=12,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-purple",
+      "y": 180
+    },
+    "color=12,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-purple",
+      "y": 180
+    },
+    "color=12,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-purple",
+      "y": 180
+    },
+    "color=12,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-purple",
+      "y": 180
+    },
+    "color=12,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-purple",
+      "y": 180
+    },
+    "color=12,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-purple",
+      "y": 180
+    },
+    "color=12,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-purple",
+      "y": 180
+    },
+    "color=12,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-purple",
+      "y": 180
+    },
+    "color=12,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-purple",
+      "y": 180
+    },
+    "color=12,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-purple",
+      "y": 180
+    },
+    "color=12,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-purple",
+      "y": 270
+    },
+    "color=12,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-purple",
+      "y": 270
+    },
+    "color=12,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-purple",
+      "y": 270
+    },
+    "color=12,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-purple",
+      "y": 270
+    },
+    "color=12,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-purple",
+      "y": 270
+    },
+    "color=12,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-purple",
+      "y": 270
+    },
+    "color=12,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-purple",
+      "y": 270
+    },
+    "color=12,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-purple",
+      "y": 270
+    },
+    "color=12,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-purple",
+      "y": 270
+    },
+    "color=12,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-purple",
+      "y": 270
+    },
+    "color=13,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-red",
+      "y": 90
+    },
+    "color=13,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-red",
+      "y": 90
+    },
+    "color=13,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-red",
+      "y": 90
+    },
+    "color=13,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-red",
+      "y": 90
+    },
+    "color=13,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-red",
+      "y": 90
+    },
+    "color=13,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-red",
+      "y": 90
+    },
+    "color=13,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-red",
+      "y": 90
+    },
+    "color=13,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-red",
+      "y": 90
+    },
+    "color=13,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-red",
+      "y": 90
+    },
+    "color=13,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-red",
+      "y": 90
+    },
+    "color=13,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-red"
+    },
+    "color=13,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-red"
+    },
+    "color=13,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-red"
+    },
+    "color=13,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-red"
+    },
+    "color=13,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-red"
+    },
+    "color=13,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-red"
+    },
+    "color=13,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-red"
+    },
+    "color=13,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-red"
+    },
+    "color=13,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-red"
+    },
+    "color=13,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-red"
+    },
+    "color=13,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-red",
+      "y": 180
+    },
+    "color=13,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-red",
+      "y": 180
+    },
+    "color=13,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-red",
+      "y": 180
+    },
+    "color=13,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-red",
+      "y": 180
+    },
+    "color=13,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-red",
+      "y": 180
+    },
+    "color=13,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-red",
+      "y": 180
+    },
+    "color=13,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-red",
+      "y": 180
+    },
+    "color=13,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-red",
+      "y": 180
+    },
+    "color=13,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-red",
+      "y": 180
+    },
+    "color=13,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-red",
+      "y": 180
+    },
+    "color=13,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-red",
+      "y": 270
+    },
+    "color=13,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-red",
+      "y": 270
+    },
+    "color=13,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-red",
+      "y": 270
+    },
+    "color=13,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-red",
+      "y": 270
+    },
+    "color=13,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-red",
+      "y": 270
+    },
+    "color=13,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-red",
+      "y": 270
+    },
+    "color=13,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-red",
+      "y": 270
+    },
+    "color=13,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-red",
+      "y": 270
+    },
+    "color=13,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-red",
+      "y": 270
+    },
+    "color=13,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-red",
+      "y": 270
+    },
+    "color=14,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-white",
+      "y": 90
+    },
+    "color=14,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-white",
+      "y": 90
+    },
+    "color=14,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-white",
+      "y": 90
+    },
+    "color=14,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-white",
+      "y": 90
+    },
+    "color=14,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-white",
+      "y": 90
+    },
+    "color=14,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-white",
+      "y": 90
+    },
+    "color=14,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-white",
+      "y": 90
+    },
+    "color=14,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-white",
+      "y": 90
+    },
+    "color=14,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-white",
+      "y": 90
+    },
+    "color=14,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-white",
+      "y": 90
+    },
+    "color=14,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-white"
+    },
+    "color=14,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-white"
+    },
+    "color=14,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-white"
+    },
+    "color=14,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-white"
+    },
+    "color=14,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-white"
+    },
+    "color=14,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-white"
+    },
+    "color=14,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-white"
+    },
+    "color=14,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-white"
+    },
+    "color=14,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-white"
+    },
+    "color=14,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-white"
+    },
+    "color=14,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-white",
+      "y": 180
+    },
+    "color=14,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-white",
+      "y": 180
+    },
+    "color=14,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-white",
+      "y": 180
+    },
+    "color=14,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-white",
+      "y": 180
+    },
+    "color=14,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-white",
+      "y": 180
+    },
+    "color=14,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-white",
+      "y": 180
+    },
+    "color=14,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-white",
+      "y": 180
+    },
+    "color=14,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-white",
+      "y": 180
+    },
+    "color=14,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-white",
+      "y": 180
+    },
+    "color=14,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-white",
+      "y": 180
+    },
+    "color=14,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-white",
+      "y": 270
+    },
+    "color=14,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-white",
+      "y": 270
+    },
+    "color=14,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-white",
+      "y": 270
+    },
+    "color=14,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-white",
+      "y": 270
+    },
+    "color=14,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-white",
+      "y": 270
+    },
+    "color=14,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-white",
+      "y": 270
+    },
+    "color=14,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-white",
+      "y": 270
+    },
+    "color=14,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-white",
+      "y": 270
+    },
+    "color=14,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-white",
+      "y": 270
+    },
+    "color=14,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-white",
+      "y": 270
+    },
+    "color=15,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-yellow",
+      "y": 90
+    },
+    "color=15,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-yellow",
+      "y": 90
+    },
+    "color=15,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-yellow",
+      "y": 90
+    },
+    "color=15,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-yellow",
+      "y": 90
+    },
+    "color=15,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-yellow",
+      "y": 90
+    },
+    "color=15,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-yellow",
+      "y": 90
+    },
+    "color=15,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-yellow",
+      "y": 90
+    },
+    "color=15,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-yellow",
+      "y": 90
+    },
+    "color=15,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-yellow",
+      "y": 90
+    },
+    "color=15,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-yellow",
+      "y": 90
+    },
+    "color=15,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-yellow"
+    },
+    "color=15,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-yellow"
+    },
+    "color=15,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-yellow"
+    },
+    "color=15,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-yellow"
+    },
+    "color=15,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-yellow"
+    },
+    "color=15,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-yellow"
+    },
+    "color=15,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-yellow"
+    },
+    "color=15,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-yellow"
+    },
+    "color=15,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-yellow"
+    },
+    "color=15,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-yellow"
+    },
+    "color=15,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-yellow",
+      "y": 180
+    },
+    "color=15,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-yellow",
+      "y": 180
+    },
+    "color=15,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-yellow",
+      "y": 180
+    },
+    "color=15,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-yellow",
+      "y": 180
+    },
+    "color=15,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-yellow",
+      "y": 180
+    },
+    "color=15,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-yellow",
+      "y": 180
+    },
+    "color=15,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-yellow",
+      "y": 180
+    },
+    "color=15,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-yellow",
+      "y": 180
+    },
+    "color=15,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-yellow",
+      "y": 180
+    },
+    "color=15,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-yellow",
+      "y": 180
+    },
+    "color=15,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-yellow",
+      "y": 270
+    },
+    "color=15,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-yellow",
+      "y": 270
+    },
+    "color=15,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-yellow",
+      "y": 270
+    },
+    "color=15,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-yellow",
+      "y": 270
+    },
+    "color=15,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-yellow",
+      "y": 270
+    },
+    "color=15,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-yellow",
+      "y": 270
+    },
+    "color=15,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-yellow",
+      "y": 270
+    },
+    "color=15,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-yellow",
+      "y": 270
+    },
+    "color=15,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-yellow",
+      "y": 270
+    },
+    "color=15,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-yellow",
+      "y": 270
+    },
+    "color=2,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-brown",
+      "y": 90
+    },
+    "color=2,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-brown",
+      "y": 90
+    },
+    "color=2,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-brown",
+      "y": 90
+    },
+    "color=2,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-brown",
+      "y": 90
+    },
+    "color=2,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-brown",
+      "y": 90
+    },
+    "color=2,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-brown",
+      "y": 90
+    },
+    "color=2,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-brown",
+      "y": 90
+    },
+    "color=2,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-brown",
+      "y": 90
+    },
+    "color=2,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-brown",
+      "y": 90
+    },
+    "color=2,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-brown",
+      "y": 90
+    },
+    "color=2,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-brown"
+    },
+    "color=2,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-brown"
+    },
+    "color=2,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-brown"
+    },
+    "color=2,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-brown"
+    },
+    "color=2,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-brown"
+    },
+    "color=2,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-brown"
+    },
+    "color=2,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-brown"
+    },
+    "color=2,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-brown"
+    },
+    "color=2,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-brown"
+    },
+    "color=2,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-brown"
+    },
+    "color=2,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-brown",
+      "y": 180
+    },
+    "color=2,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-brown",
+      "y": 180
+    },
+    "color=2,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-brown",
+      "y": 180
+    },
+    "color=2,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-brown",
+      "y": 180
+    },
+    "color=2,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-brown",
+      "y": 180
+    },
+    "color=2,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-brown",
+      "y": 180
+    },
+    "color=2,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-brown",
+      "y": 180
+    },
+    "color=2,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-brown",
+      "y": 180
+    },
+    "color=2,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-brown",
+      "y": 180
+    },
+    "color=2,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-brown",
+      "y": 180
+    },
+    "color=2,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-brown",
+      "y": 270
+    },
+    "color=2,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-brown",
+      "y": 270
+    },
+    "color=2,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-brown",
+      "y": 270
+    },
+    "color=2,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-brown",
+      "y": 270
+    },
+    "color=2,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-brown",
+      "y": 270
+    },
+    "color=2,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-brown",
+      "y": 270
+    },
+    "color=2,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-brown",
+      "y": 270
+    },
+    "color=2,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-brown",
+      "y": 270
+    },
+    "color=2,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-brown",
+      "y": 270
+    },
+    "color=2,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-brown",
+      "y": 270
+    },
+    "color=3,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-cyan",
+      "y": 90
+    },
+    "color=3,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-cyan",
+      "y": 90
+    },
+    "color=3,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-cyan",
+      "y": 90
+    },
+    "color=3,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-cyan",
+      "y": 90
+    },
+    "color=3,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-cyan",
+      "y": 90
+    },
+    "color=3,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-cyan",
+      "y": 90
+    },
+    "color=3,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-cyan",
+      "y": 90
+    },
+    "color=3,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-cyan",
+      "y": 90
+    },
+    "color=3,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-cyan",
+      "y": 90
+    },
+    "color=3,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-cyan",
+      "y": 90
+    },
+    "color=3,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-cyan"
+    },
+    "color=3,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-cyan"
+    },
+    "color=3,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-cyan"
+    },
+    "color=3,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-cyan"
+    },
+    "color=3,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-cyan"
+    },
+    "color=3,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-cyan"
+    },
+    "color=3,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-cyan"
+    },
+    "color=3,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-cyan"
+    },
+    "color=3,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-cyan"
+    },
+    "color=3,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-cyan"
+    },
+    "color=3,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-cyan",
+      "y": 180
+    },
+    "color=3,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-cyan",
+      "y": 180
+    },
+    "color=3,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-cyan",
+      "y": 180
+    },
+    "color=3,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-cyan",
+      "y": 180
+    },
+    "color=3,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-cyan",
+      "y": 180
+    },
+    "color=3,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-cyan",
+      "y": 180
+    },
+    "color=3,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-cyan",
+      "y": 180
+    },
+    "color=3,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-cyan",
+      "y": 180
+    },
+    "color=3,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-cyan",
+      "y": 180
+    },
+    "color=3,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-cyan",
+      "y": 180
+    },
+    "color=3,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-cyan",
+      "y": 270
+    },
+    "color=3,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-cyan",
+      "y": 270
+    },
+    "color=3,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-cyan",
+      "y": 270
+    },
+    "color=3,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-cyan",
+      "y": 270
+    },
+    "color=3,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-cyan",
+      "y": 270
+    },
+    "color=3,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-cyan",
+      "y": 270
+    },
+    "color=3,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-cyan",
+      "y": 270
+    },
+    "color=3,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-cyan",
+      "y": 270
+    },
+    "color=3,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-cyan",
+      "y": 270
+    },
+    "color=3,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-cyan",
+      "y": 270
+    },
+    "color=4,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-gray",
+      "y": 90
+    },
+    "color=4,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-gray",
+      "y": 90
+    },
+    "color=4,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-gray",
+      "y": 90
+    },
+    "color=4,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-gray",
+      "y": 90
+    },
+    "color=4,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-gray",
+      "y": 90
+    },
+    "color=4,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-gray",
+      "y": 90
+    },
+    "color=4,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-gray",
+      "y": 90
+    },
+    "color=4,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-gray",
+      "y": 90
+    },
+    "color=4,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-gray",
+      "y": 90
+    },
+    "color=4,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-gray",
+      "y": 90
+    },
+    "color=4,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-gray"
+    },
+    "color=4,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-gray"
+    },
+    "color=4,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-gray"
+    },
+    "color=4,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-gray"
+    },
+    "color=4,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-gray"
+    },
+    "color=4,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-gray"
+    },
+    "color=4,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-gray"
+    },
+    "color=4,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-gray"
+    },
+    "color=4,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-gray"
+    },
+    "color=4,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-gray"
+    },
+    "color=4,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-gray",
+      "y": 180
+    },
+    "color=4,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-gray",
+      "y": 180
+    },
+    "color=4,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-gray",
+      "y": 180
+    },
+    "color=4,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-gray",
+      "y": 180
+    },
+    "color=4,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-gray",
+      "y": 180
+    },
+    "color=4,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-gray",
+      "y": 180
+    },
+    "color=4,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-gray",
+      "y": 180
+    },
+    "color=4,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-gray",
+      "y": 180
+    },
+    "color=4,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-gray",
+      "y": 180
+    },
+    "color=4,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-gray",
+      "y": 180
+    },
+    "color=4,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-gray",
+      "y": 270
+    },
+    "color=4,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-gray",
+      "y": 270
+    },
+    "color=4,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-gray",
+      "y": 270
+    },
+    "color=4,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-gray",
+      "y": 270
+    },
+    "color=4,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-gray",
+      "y": 270
+    },
+    "color=4,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-gray",
+      "y": 270
+    },
+    "color=4,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-gray",
+      "y": 270
+    },
+    "color=4,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-gray",
+      "y": 270
+    },
+    "color=4,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-gray",
+      "y": 270
+    },
+    "color=4,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-gray",
+      "y": 270
+    },
+    "color=5,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-green",
+      "y": 90
+    },
+    "color=5,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-green",
+      "y": 90
+    },
+    "color=5,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-green",
+      "y": 90
+    },
+    "color=5,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-green",
+      "y": 90
+    },
+    "color=5,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-green",
+      "y": 90
+    },
+    "color=5,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-green",
+      "y": 90
+    },
+    "color=5,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-green",
+      "y": 90
+    },
+    "color=5,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-green",
+      "y": 90
+    },
+    "color=5,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-green",
+      "y": 90
+    },
+    "color=5,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-green",
+      "y": 90
+    },
+    "color=5,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-green"
+    },
+    "color=5,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-green"
+    },
+    "color=5,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-green"
+    },
+    "color=5,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-green"
+    },
+    "color=5,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-green"
+    },
+    "color=5,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-green"
+    },
+    "color=5,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-green"
+    },
+    "color=5,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-green"
+    },
+    "color=5,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-green"
+    },
+    "color=5,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-green"
+    },
+    "color=5,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-green",
+      "y": 180
+    },
+    "color=5,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-green",
+      "y": 180
+    },
+    "color=5,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-green",
+      "y": 180
+    },
+    "color=5,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-green",
+      "y": 180
+    },
+    "color=5,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-green",
+      "y": 180
+    },
+    "color=5,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-green",
+      "y": 180
+    },
+    "color=5,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-green",
+      "y": 180
+    },
+    "color=5,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-green",
+      "y": 180
+    },
+    "color=5,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-green",
+      "y": 180
+    },
+    "color=5,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-green",
+      "y": 180
+    },
+    "color=5,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-green",
+      "y": 270
+    },
+    "color=5,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-green",
+      "y": 270
+    },
+    "color=5,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-green",
+      "y": 270
+    },
+    "color=5,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-green",
+      "y": 270
+    },
+    "color=5,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-green",
+      "y": 270
+    },
+    "color=5,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-green",
+      "y": 270
+    },
+    "color=5,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-green",
+      "y": 270
+    },
+    "color=5,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-green",
+      "y": 270
+    },
+    "color=5,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-green",
+      "y": 270
+    },
+    "color=5,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-green",
+      "y": 270
+    },
+    "color=6,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-light_blue",
+      "y": 90
+    },
+    "color=6,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-light_blue",
+      "y": 90
+    },
+    "color=6,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-light_blue",
+      "y": 90
+    },
+    "color=6,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_blue",
+      "y": 90
+    },
+    "color=6,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-light_blue",
+      "y": 90
+    },
+    "color=6,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-light_blue",
+      "y": 90
+    },
+    "color=6,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_blue",
+      "y": 90
+    },
+    "color=6,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-light_blue",
+      "y": 90
+    },
+    "color=6,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-light_blue",
+      "y": 90
+    },
+    "color=6,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-light_blue",
+      "y": 90
+    },
+    "color=6,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-light_blue"
+    },
+    "color=6,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-light_blue"
+    },
+    "color=6,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-light_blue"
+    },
+    "color=6,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_blue"
+    },
+    "color=6,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-light_blue"
+    },
+    "color=6,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-light_blue"
+    },
+    "color=6,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_blue"
+    },
+    "color=6,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-light_blue"
+    },
+    "color=6,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-light_blue"
+    },
+    "color=6,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-light_blue"
+    },
+    "color=6,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-light_blue",
+      "y": 180
+    },
+    "color=6,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-light_blue",
+      "y": 180
+    },
+    "color=6,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-light_blue",
+      "y": 180
+    },
+    "color=6,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_blue",
+      "y": 180
+    },
+    "color=6,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-light_blue",
+      "y": 180
+    },
+    "color=6,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-light_blue",
+      "y": 180
+    },
+    "color=6,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_blue",
+      "y": 180
+    },
+    "color=6,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-light_blue",
+      "y": 180
+    },
+    "color=6,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-light_blue",
+      "y": 180
+    },
+    "color=6,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-light_blue",
+      "y": 180
+    },
+    "color=6,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-light_blue",
+      "y": 270
+    },
+    "color=6,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-light_blue",
+      "y": 270
+    },
+    "color=6,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-light_blue",
+      "y": 270
+    },
+    "color=6,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_blue",
+      "y": 270
+    },
+    "color=6,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-light_blue",
+      "y": 270
+    },
+    "color=6,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-light_blue",
+      "y": 270
+    },
+    "color=6,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_blue",
+      "y": 270
+    },
+    "color=6,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-light_blue",
+      "y": 270
+    },
+    "color=6,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-light_blue",
+      "y": 270
+    },
+    "color=6,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-light_blue",
+      "y": 270
+    },
+    "color=7,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-light_gray",
+      "y": 90
+    },
+    "color=7,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-light_gray",
+      "y": 90
+    },
+    "color=7,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-light_gray",
+      "y": 90
+    },
+    "color=7,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_gray",
+      "y": 90
+    },
+    "color=7,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-light_gray",
+      "y": 90
+    },
+    "color=7,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-light_gray",
+      "y": 90
+    },
+    "color=7,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_gray",
+      "y": 90
+    },
+    "color=7,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-light_gray",
+      "y": 90
+    },
+    "color=7,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-light_gray",
+      "y": 90
+    },
+    "color=7,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-light_gray",
+      "y": 90
+    },
+    "color=7,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-light_gray"
+    },
+    "color=7,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-light_gray"
+    },
+    "color=7,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-light_gray"
+    },
+    "color=7,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_gray"
+    },
+    "color=7,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-light_gray"
+    },
+    "color=7,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-light_gray"
+    },
+    "color=7,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_gray"
+    },
+    "color=7,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-light_gray"
+    },
+    "color=7,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-light_gray"
+    },
+    "color=7,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-light_gray"
+    },
+    "color=7,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-light_gray",
+      "y": 180
+    },
+    "color=7,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-light_gray",
+      "y": 180
+    },
+    "color=7,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-light_gray",
+      "y": 180
+    },
+    "color=7,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_gray",
+      "y": 180
+    },
+    "color=7,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-light_gray",
+      "y": 180
+    },
+    "color=7,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-light_gray",
+      "y": 180
+    },
+    "color=7,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_gray",
+      "y": 180
+    },
+    "color=7,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-light_gray",
+      "y": 180
+    },
+    "color=7,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-light_gray",
+      "y": 180
+    },
+    "color=7,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-light_gray",
+      "y": 180
+    },
+    "color=7,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-light_gray",
+      "y": 270
+    },
+    "color=7,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-light_gray",
+      "y": 270
+    },
+    "color=7,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-light_gray",
+      "y": 270
+    },
+    "color=7,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_gray",
+      "y": 270
+    },
+    "color=7,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-light_gray",
+      "y": 270
+    },
+    "color=7,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-light_gray",
+      "y": 270
+    },
+    "color=7,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-light_gray",
+      "y": 270
+    },
+    "color=7,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-light_gray",
+      "y": 270
+    },
+    "color=7,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-light_gray",
+      "y": 270
+    },
+    "color=7,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-light_gray",
+      "y": 270
+    },
+    "color=8,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-lime",
+      "y": 90
+    },
+    "color=8,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-lime",
+      "y": 90
+    },
+    "color=8,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-lime",
+      "y": 90
+    },
+    "color=8,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-lime",
+      "y": 90
+    },
+    "color=8,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-lime",
+      "y": 90
+    },
+    "color=8,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-lime",
+      "y": 90
+    },
+    "color=8,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-lime",
+      "y": 90
+    },
+    "color=8,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-lime",
+      "y": 90
+    },
+    "color=8,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-lime",
+      "y": 90
+    },
+    "color=8,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-lime",
+      "y": 90
+    },
+    "color=8,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-lime"
+    },
+    "color=8,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-lime"
+    },
+    "color=8,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-lime"
+    },
+    "color=8,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-lime"
+    },
+    "color=8,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-lime"
+    },
+    "color=8,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-lime"
+    },
+    "color=8,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-lime"
+    },
+    "color=8,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-lime"
+    },
+    "color=8,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-lime"
+    },
+    "color=8,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-lime"
+    },
+    "color=8,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-lime",
+      "y": 180
+    },
+    "color=8,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-lime",
+      "y": 180
+    },
+    "color=8,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-lime",
+      "y": 180
+    },
+    "color=8,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-lime",
+      "y": 180
+    },
+    "color=8,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-lime",
+      "y": 180
+    },
+    "color=8,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-lime",
+      "y": 180
+    },
+    "color=8,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-lime",
+      "y": 180
+    },
+    "color=8,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-lime",
+      "y": 180
+    },
+    "color=8,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-lime",
+      "y": 180
+    },
+    "color=8,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-lime",
+      "y": 180
+    },
+    "color=8,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-lime",
+      "y": 270
+    },
+    "color=8,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-lime",
+      "y": 270
+    },
+    "color=8,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-lime",
+      "y": 270
+    },
+    "color=8,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-lime",
+      "y": 270
+    },
+    "color=8,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-lime",
+      "y": 270
+    },
+    "color=8,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-lime",
+      "y": 270
+    },
+    "color=8,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-lime",
+      "y": 270
+    },
+    "color=8,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-lime",
+      "y": 270
+    },
+    "color=8,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-lime",
+      "y": 270
+    },
+    "color=8,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-lime",
+      "y": 270
+    },
+    "color=9,facing=east,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-magenta",
+      "y": 90
+    },
+    "color=9,facing=east,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-magenta",
+      "y": 90
+    },
+    "color=9,facing=east,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-magenta",
+      "y": 90
+    },
+    "color=9,facing=east,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-magenta",
+      "y": 90
+    },
+    "color=9,facing=east,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-magenta",
+      "y": 90
+    },
+    "color=9,facing=east,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-magenta",
+      "y": 90
+    },
+    "color=9,facing=east,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-magenta",
+      "y": 90
+    },
+    "color=9,facing=east,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-magenta",
+      "y": 90
+    },
+    "color=9,facing=east,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-magenta",
+      "y": 90
+    },
+    "color=9,facing=east,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-magenta",
+      "y": 90
+    },
+    "color=9,facing=north,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-magenta"
+    },
+    "color=9,facing=north,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-magenta"
+    },
+    "color=9,facing=north,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-magenta"
+    },
+    "color=9,facing=north,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-magenta"
+    },
+    "color=9,facing=north,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-magenta"
+    },
+    "color=9,facing=north,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-magenta"
+    },
+    "color=9,facing=north,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-magenta"
+    },
+    "color=9,facing=north,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center-magenta"
+    },
+    "color=9,facing=north,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left-magenta"
+    },
+    "color=9,facing=north,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right-magenta"
+    },
+    "color=9,facing=south,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-magenta",
+      "y": 180
+    },
+    "color=9,facing=south,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-magenta",
+      "y": 180
+    },
+    "color=9,facing=south,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-magenta",
+      "y": 180
+    },
+    "color=9,facing=south,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-magenta",
+      "y": 180
+    },
+    "color=9,facing=south,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-magenta",
+      "y": 180
+    },
+    "color=9,facing=south,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-magenta",
+      "y": 180
+    },
+    "color=9,facing=south,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-magenta",
+      "y": 180
+    },
+    "color=9,facing=south,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-magenta",
+      "y": 180
+    },
+    "color=9,facing=south,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-magenta",
+      "y": 180
+    },
+    "color=9,facing=south,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-magenta",
+      "y": 180
+    },
+    "color=9,facing=west,position=bottom_center": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_center-magenta",
+      "y": 270
+    },
+    "color=9,facing=west,position=bottom_left": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_left-magenta",
+      "y": 270
+    },
+    "color=9,facing=west,position=bottom_right": {
+      "model": "moderntrainparts:block/container_models/container_door-bottom_right-magenta",
+      "y": 270
+    },
+    "color=9,facing=west,position=center": {
+      "model": "moderntrainparts:block/container_models/container_door-center-magenta",
+      "y": 270
+    },
+    "color=9,facing=west,position=center_left": {
+      "model": "moderntrainparts:block/container_models/container_door-center_left-magenta",
+      "y": 270
+    },
+    "color=9,facing=west,position=center_right": {
+      "model": "moderntrainparts:block/container_models/container_door-center_right-magenta",
+      "y": 270
+    },
+    "color=9,facing=west,position=none": {
+      "model": "moderntrainparts:block/container_models/container_door-center-magenta",
+      "y": 270
+    },
+    "color=9,facing=west,position=top_center": {
+      "model": "moderntrainparts:block/container_models/container_door-top_center_back-magenta",
+      "y": 270
+    },
+    "color=9,facing=west,position=top_left": {
+      "model": "moderntrainparts:block/container_models/container_door-top_left_back-magenta",
+      "y": 270
+    },
+    "color=9,facing=west,position=top_right": {
+      "model": "moderntrainparts:block/container_models/container_door-top_right_back-magenta",
+      "y": 270
+    }
+  }
+}

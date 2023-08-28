@@ -1,0 +1,9 @@
+{
+  "parent": "create_train_additions:custom/train_lamp_blue",
+  "textures": {
+    "all": "create_train_additions:blocks/partikel",
+    "particle": "create_train_additions:blocks/partikel",
+    "2": "create_train_additions:blocks/train_lamp_blue"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "moderntrainparts:block/cantilever"
+    },
+    "facing=north": {
+      "model": "moderntrainparts:block/cantilever",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "moderntrainparts:block/cantilever",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "moderntrainparts:block/cantilever",
+      "y": 180
+    }
+  }
+}

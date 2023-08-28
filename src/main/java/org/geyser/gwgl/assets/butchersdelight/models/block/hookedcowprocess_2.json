@@ -1,0 +1,10 @@
+{
+  "parent": "butchersdelight:custom/hookedcowskinnedp2",
+  "textures": {
+    "all": "butchersdelight:blocks/hookedcow",
+    "particle": "butchersdelight:blocks/hookedcow",
+    "0": "butchersdelight:blocks/hook",
+    "2": "butchersdelight:blocks/dead_cow_skinnedp2"
+  },
+  "render_type": "cutout_mipped"
+}

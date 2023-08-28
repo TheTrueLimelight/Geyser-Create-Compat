@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "create_deco_casing:blocks/shadow_steel_casing",
+    "top": "create_deco_casing:blocks/shadow_steel_casing",
+    "side": "create_deco_casing:blocks/shadow_steel_casing"
+  },
+  "render_type": "solid"
+}

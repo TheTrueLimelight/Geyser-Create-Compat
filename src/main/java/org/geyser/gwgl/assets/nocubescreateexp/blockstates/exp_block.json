@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "nocubescreateexp:block/exp_block"
+    }
+  }
+}

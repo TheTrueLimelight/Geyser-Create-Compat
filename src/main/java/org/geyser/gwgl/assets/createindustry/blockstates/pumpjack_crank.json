@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createindustry:block/pumpjack/pumpjack_crank"
+    },
+    "facing=south": {
+      "model": "createindustry:block/pumpjack/pumpjack_crank",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createindustry:block/pumpjack/pumpjack_crank",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "createindustry:block/pumpjack/pumpjack_crank",
+      "y": 90
+    }
+  }
+}

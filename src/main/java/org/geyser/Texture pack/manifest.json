@@ -1,16 +1,16 @@
 {
 	"format_version": 10,
 	"header": {
-		"name": "pack.name",
+		"name": "SMPw",
 		"description": "pack.description",
-		"uuid": "...",
+		"uuid": "aeac7835-c3f7-43ad-9578-2151987ab1ce",
 		"version": [1, 0, 0],
 		"min_engine_version": [1, 16, 0]
 	},
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "...",
+			"uuid": "ca08057b-d1be-4508-9d1e-c5a32b4ee75e",
 			"version": [1, 0, 0]
 		}
 	]

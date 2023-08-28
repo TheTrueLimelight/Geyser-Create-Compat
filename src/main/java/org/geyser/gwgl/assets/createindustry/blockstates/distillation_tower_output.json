@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "": { "model": "createindustry:block/distillation_tower_output"
+    }
+  }
+}

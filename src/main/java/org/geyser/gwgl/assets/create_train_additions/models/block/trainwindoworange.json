@@ -1,0 +1,11 @@
+{
+  "parent": "create_train_additions:custom/zugfenster_winkel_orange",
+  "textures": {
+    "all": "create_train_additions:blocks/partikel",
+    "particle": "create_train_additions:blocks/partikel",
+    "2": "create_train_additions:blocks/framed_glass_connected",
+    "4": "create_train_additions:blocks/texture_red",
+    "5": "create_train_additions:blocks/texture_orange"
+  },
+  "render_type": "cutout_mipped"
+}

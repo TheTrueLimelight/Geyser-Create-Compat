@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "create_deco_casing:blocks/copper_casing"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "create_train_additions:custom/platform_var.1_white",
+  "textures": {
+    "all": "create_train_additions:blocks/platform_v.1.1_white",
+    "particle": "create_train_additions:blocks/platform_v.1.1_white",
+    "0": "create_train_additions:blocks/platform_v.1.1_white"
+  },
+  "render_type": "cutout_mipped"
+}

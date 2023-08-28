@@ -1,0 +1,9 @@
+{
+  "parent": "create_things_and_misc:custom/model",
+  "textures": {
+    "all": "create_things_and_misc:blocks/magma_cream_block",
+    "particle": "create_things_and_misc:blocks/magma_cream_block",
+    "0": "create_things_and_misc:blocks/magma_cream_block"
+  },
+  "render_type": "translucent"
+}

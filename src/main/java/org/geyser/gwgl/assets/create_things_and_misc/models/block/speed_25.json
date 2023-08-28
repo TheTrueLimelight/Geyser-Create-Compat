@@ -1,0 +1,9 @@
+{
+  "parent": "create_things_and_misc:custom/train_sing",
+  "textures": {
+    "all": "create_things_and_misc:blocks/red4",
+    "particle": "create_things_and_misc:blocks/red4",
+    "0": "create_things_and_misc:blocks/red4"
+  },
+  "render_type": "cutout_mipped"
+}

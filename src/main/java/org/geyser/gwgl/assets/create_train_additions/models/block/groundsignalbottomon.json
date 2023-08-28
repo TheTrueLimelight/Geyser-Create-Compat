@@ -1,0 +1,11 @@
+{
+  "parent": "create_train_additions:custom/sperrsignal.boden_on",
+  "textures": {
+    "all": "create_train_additions:blocks/sperrsignal.fahrt",
+    "particle": "create_train_additions:blocks/sperrsignal.fahrt",
+    "0": "create_train_additions:blocks/girder",
+    "1": "create_train_additions:blocks/sperrsignal.fahrt",
+    "2": "create_train_additions:blocks/andesite"
+  },
+  "render_type": "solid"
+}

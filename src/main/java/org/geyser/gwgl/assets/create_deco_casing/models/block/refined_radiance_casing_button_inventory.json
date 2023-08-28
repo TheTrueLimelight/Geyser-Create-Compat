@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "create_deco_casing:blocks/refined_radiance_casing"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "createindustry:block/machine_input",
+      "x": 180
+    },
+    "facing=up": {
+      "model": "createindustry:block/machine_input"
+    },
+    "facing=north": {
+      "model": "createindustry:block/machine_input",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "createindustry:block/machine_input",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createindustry:block/machine_input",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east": {
+      "model": "createindustry:block/machine_input",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

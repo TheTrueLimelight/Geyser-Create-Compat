@@ -1,0 +1,9 @@
+{
+  "parent": "create_train_additions:custom/train_buffer_big_andesite",
+  "textures": {
+    "all": "create_train_additions:blocks/andesite_casing",
+    "particle": "create_train_additions:blocks/andesite_casing",
+    "0": "create_train_additions:blocks/andesite_casing_connected_buffer_small"
+  },
+  "render_type": "solid"
+}

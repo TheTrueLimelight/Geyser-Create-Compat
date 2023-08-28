@@ -1,0 +1,10 @@
+{
+  "parent": "butchersdelight:custom/skullcow",
+  "textures": {
+    "all": "butchersdelight:blocks/hookedcow",
+    "particle": "butchersdelight:blocks/skullcow",
+    "0": "butchersdelight:blocks/cow",
+    "1": "butchersdelight:blocks/skullcow"
+  },
+  "render_type": "cutout_mipped"
+}

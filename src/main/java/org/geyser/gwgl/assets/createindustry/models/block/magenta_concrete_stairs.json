@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "createindustry:block/magenta_concrete_stage0",
+    "top": "createindustry:block/magenta_concrete_stage0",
+    "side": "createindustry:block/magenta_concrete_stage0"
+  }
+}

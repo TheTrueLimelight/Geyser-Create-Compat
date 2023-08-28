@@ -1,0 +1,22 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "layer": "SOLID",
+        "textures": [
+            "create_deco_casing:blocks/copper_casing-ctm"
+        ],
+        "extra": {
+            "connect_to": [
+                { "block": "create_deco_casing:copper_casing_slab" },
+                { "block": "create_deco_casing:copper_casing_stairs" },
+                { "block": "create_deco_casing:copper_casing_trapdoor" },
+                { "block": "create_deco_casing:copper_casing_door" },
+                { "block": "create:copper_casing" },
+                { "block": "create:copper_encased_shaft" },
+                { "block": "create:copper_encased_large_cogwheel" },
+                { "block": "create:copper_encased_cogwheel" }
+            ]
+        }
+    }
+}

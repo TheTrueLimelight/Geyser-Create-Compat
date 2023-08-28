@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "create_deco_casing:blocks/shadow_steel_casing"
+  },
+  "render_type": "cutout_mipped"
+}

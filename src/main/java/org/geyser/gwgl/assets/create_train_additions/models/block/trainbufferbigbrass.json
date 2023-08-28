@@ -1,0 +1,9 @@
+{
+  "parent": "create_train_additions:custom/train_buffer_big_brass",
+  "textures": {
+    "all": "create_train_additions:blocks/brass_casing",
+    "particle": "create_train_additions:blocks/brass_casing",
+    "0": "create_train_additions:blocks/brass_casing_connected_buffer_small"
+  },
+  "render_type": "solid"
+}

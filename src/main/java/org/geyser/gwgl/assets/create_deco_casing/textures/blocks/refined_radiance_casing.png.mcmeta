@@ -1,0 +1,22 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "layer": "SOLID",
+        "textures": [
+            "create_deco_casing:blocks/refined_radiance_casing-ctm"
+        ],
+        "extra": {
+            "connect_to": [
+                { "block": "create_deco_casing:refined_radiance_casing_slab" },
+                { "block": "create_deco_casing:refined_radiance_casing_stairs" },
+                { "block": "create_deco_casing:refined_radiance_casing_trapdoor" },
+                { "block": "create_deco_casing:refined_radiance_casing_door" },
+                { "block": "create:refined_radiance_casing" },
+                { "block": "create:refined_radiance_encased_shaft" },
+                { "block": "create:refined_radiance_encased_large_cogwheel" },
+                { "block": "create:refined_radiance_encased_cogwheel" }
+            ]
+        }
+    }
+}

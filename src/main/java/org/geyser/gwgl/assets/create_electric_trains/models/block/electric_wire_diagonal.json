@@ -1,0 +1,9 @@
+{
+  "parent": "create_electric_trains:custom/elekdiagonal",
+  "textures": {
+    "all": "create_electric_trains:blocks/elecwiretext",
+    "particle": "create_electric_trains:blocks/elecwiretext",
+    "0": "create_electric_trains:blocks/elecwiretext"
+  },
+  "render_type": "solid"
+}

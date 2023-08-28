@@ -1,0 +1,8 @@
+{
+  "parent": "create_train_additions:custom/signal_bounder",
+  "textures": {
+    "0": "create_train_additions:blocks/brass_casing_signal_bounder",
+    "2": "create_train_additions:blocks/signal_bounder",
+    "particle": "create_train_additions:items/brass_casing"
+  }
+}

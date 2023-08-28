@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "create_deco_casing:blocks/railway_casing",
+    "top": "create_deco_casing:blocks/railway_casing",
+    "side": "create_deco_casing:blocks/railway_casing"
+  },
+  "render_type": "solid"
+}

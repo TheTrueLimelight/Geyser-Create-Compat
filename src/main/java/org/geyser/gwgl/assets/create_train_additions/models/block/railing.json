@@ -1,0 +1,9 @@
+{
+  "parent": "create_train_additions:custom/railing",
+  "textures": {
+    "all": "create_train_additions:blocks/partikel",
+    "particle": "create_train_additions:blocks/partikel",
+    "0": "create_train_additions:blocks/railing"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "create_train_additions:custom/g_75",
+  "textures": {
+    "all": "create_train_additions:blocks/partikel",
+    "particle": "create_train_additions:blocks/partikel",
+    "0": "create_train_additions:blocks/g_25",
+    "3": "create_train_additions:blocks/g_75_s"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "create_train_additions:custom/platform_over_1_red",
+  "textures": {
+    "all": "create_train_additions:blocks/platform_over_red",
+    "particle": "create_train_additions:blocks/platform_over_red",
+    "0": "create_train_additions:blocks/platform_over_red"
+  },
+  "render_type": "solid"
+}

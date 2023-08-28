@@ -1,0 +1,12 @@
+{
+  "parent": "create_train_additions:custom/controllboard",
+  "textures": {
+    "all": "create_train_additions:blocks/railway_casing",
+    "particle": "create_train_additions:blocks/railway_casing",
+    "1": "create_train_additions:blocks/railway_casing",
+    "2": "create_train_additions:blocks/railway_casing_connected",
+    "3": "create_train_additions:blocks/controllboard",
+    "missing": "create_train_additions:blocks/"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createindustry:block/distillation_tower_controller"
+
+    },
+    "facing=south": {
+      "model": "createindustry:block/distillation_tower_controller",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createindustry:block/distillation_tower_controller",
+      "y": 270
+
+    },
+    "facing=east": {
+      "model": "createindustry:block/distillation_tower_controller",
+      "y": 90
+
+    }
+  }
+
+}

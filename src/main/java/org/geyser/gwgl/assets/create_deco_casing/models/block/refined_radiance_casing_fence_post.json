@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "create_deco_casing:blocks/refined_radiance_casing",
+    "particle": "create_deco_casing:blocks/refined_radiance_casing"
+  },
+  "render_type": "solid"
+}

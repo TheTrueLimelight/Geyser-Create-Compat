@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "createindustry:block/small_bauxite_brick",
+    "top": "createindustry:block/small_bauxite_brick",
+    "side": "createindustry:block/small_bauxite_brick"
+  }
+}

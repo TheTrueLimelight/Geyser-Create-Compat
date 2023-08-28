@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "create_deco_casing:blocks/railway_casing"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,23 @@
+{
+  "feytweaks.midnightconfig.title": "FeyTweaks",
+
+  "key.feytweaks.openConfigKey": "Открыть меню конфига",
+  "feytweaks.midnightconfig.toggleMod": "Включить мод: ",
+
+  "feytweaks.midnightconfig.signs": "§l§nТаблички",
+  "feytweaks.midnightconfig.hideTexts": "Скрывать текст на дистанции: ",
+  "feytweaks.midnightconfig.textDistance": "Минимальная дистанция для скрытия §nтекста§r: ",
+  "feytweaks.midnightconfig.signCulling": "Скрытие текста вне поля зрения: ",
+  "feytweaks.midnightconfig.simpleGlow": "Всегда скрывать эффект свечения: ",
+  "feytweaks.midnightconfig.glowToShadow": "Обводка светящегося текста -> Тень текста: ",
+  "feytweaks.midnightconfig.fastGlowToShadow": "Обводка светящегося текста -> Тень текста + Оптимизация [Бета]: ",
+  "feytweaks.midnightconfig.hideGlowDistance": "Минимальная дистанция для скрытия §nэффекта свечения§r: ",
+  "feytweaks.midnightconfig.hideGlow": "Cкрывать эффект свечения на дистанции: ",
+  "feytweaks.midnightconfig.optimizeGlow": "Оптимизация эффекта свечения [Бета]: ",
+
+  "feytweaks.midnightconfig.beacons": "§l§nМаяки",
+  "feytweaks.midnightconfig.hideBeam": "Скрывать лучи на дистанции: ",
+  "feytweaks.midnightconfig.beamDistance": "Минимальная дистанция для скрытия: ",
+  "feytweaks.midnightconfig.optimizeBeam": "Оптимизация лучей: ",
+  "feytweaks.midnightconfig.beaconCulling": "Скрытие лучей вне поля зрения: "
+}

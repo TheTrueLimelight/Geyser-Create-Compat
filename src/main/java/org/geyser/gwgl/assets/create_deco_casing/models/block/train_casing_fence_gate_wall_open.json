@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_wall_open",
+  "textures": {
+    "texture": "create_deco_casing:blocks/railway_casing"
+  },
+  "render_type": "solid"
+}

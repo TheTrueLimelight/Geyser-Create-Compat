@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "create_deco_casing:blocks/industrial_iron_block",
+    "top": "create_deco_casing:blocks/industrial_iron_block",
+    "side": "create_deco_casing:blocks/industrial_iron_block"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createindustry:block/light_gray_concrete_slab"
+    },
+    "type=double": {
+      "model": "createindustry:block/light_gray_q_concrete"
+    },
+    "type=top": {
+      "model": "createindustry:block/light_gray_concrete_slab_top"
+    }
+  }
+}

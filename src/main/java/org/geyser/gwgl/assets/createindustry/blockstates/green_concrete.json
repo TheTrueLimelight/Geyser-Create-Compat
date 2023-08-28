@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "createindustry:block/green_concrete_stage0"
+    },
+    "age=1": {
+      "model": "createindustry:block/green_concrete_stage1"
+    },
+    "age=2": {
+      "model": "createindustry:block/green_concrete_stage2"
+    }
+  }
+}

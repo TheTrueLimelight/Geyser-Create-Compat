@@ -1,0 +1,7 @@
+{
+  "parent": "create_train_additions:custom/anti-rust_paint",
+  "textures": {
+    "0": "create_train_additions:blocks/anti-rust_paint",
+    "particle": "create_train_additions:items/anti_rust_paint"
+  }
+}

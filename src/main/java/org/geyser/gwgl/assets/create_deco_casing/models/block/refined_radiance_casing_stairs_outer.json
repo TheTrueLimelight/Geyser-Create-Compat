@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "create_deco_casing:blocks/refined_radiance_casing",
+    "top": "create_deco_casing:blocks/refined_radiance_casing",
+    "side": "create_deco_casing:blocks/refined_radiance_casing"
+  },
+  "render_type": "solid"
+}
