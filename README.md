@@ -13,12 +13,12 @@ Create mod and other addons ported to bedrock.
 5. Copy the built jar from `build/libs` to your Geyser's extensions folder
 
 ## Coming Soon
-- Finish Porting base create mod
-- Finish porting create addons
-- 
+- Syntax on items
+- Finish porting create addon blocks
+- Resource pack
 
 ## Done plans
--Finished 20% portations
+-Finished Items
 
 ## Existing Extensions
 See our list [here](https://github.com/GeyserMC/GeyserExtensionList).

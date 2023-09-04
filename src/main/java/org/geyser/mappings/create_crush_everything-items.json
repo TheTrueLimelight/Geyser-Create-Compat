@@ -1,0 +1,11083 @@
+{"format_version": 1,
+ "items": {
+ "create:wrench":[{
+	 "name":"wrench",
+	 "custom_model_data":6904200,
+	 "texture_size":16
+ }],
+ "create:andesite_alloy":[{
+	 "name":"andesite_alloy",
+	 "custom_model_data":6904201,
+	 "texture_size":16
+ }],
+ "create:antioxidant":[{
+	 "name":"antioxidant",
+	 "custom_model_data":6904202,
+	 "texture_size":16
+ }],
+ "create:bar_of_chocolate":[{
+	 "name":"bar_of_chocolate",
+	 "custom_model_data":6904203,
+	 "texture_size":16
+ }],
+  "create:attribute_filter":[{
+	 "name":"attribute_filter",
+	 "custom_model_data":6904204,
+	 "texture_size":16
+ }],
+  "create:blaze_cake_base":[{
+	 "name":"blaze_cake_base",
+	 "custom_model_data":6904205,
+	 "texture_size":16
+ }],
+  "create:brass_hand":[{
+	 "name":"brass_hand",
+	 "custom_model_data":6904206,
+	 "texture_size":16
+ }],
+  "create:brass_ingot":[{
+	 "name":"brass_ingot",
+	 "custom_model_data":6904207,
+	 "texture_size":16
+ }],
+  "create:brass_nugget":[{
+	 "name":"brass_nugget",
+	 "custom_model_data":6904208,
+	 "texture_size":16
+ }],
+  "create:builders_tea":[{
+	 "name":"builders_tea",
+	 "custom_model_data":6904209,
+	 "texture_size":16
+ }],
+  "create:chocolate_glazed_berries":[{
+	 "name":"chocolate_glazed_berries",
+	 "custom_model_data":6904210,
+	 "texture_size":16
+ }],
+  "create:chromatic_compound_zero":[{
+	 "name":"chromatic_compound",
+	 "custom_model_data":6904211,
+	 "texture_size":16
+ }],
+  "create:chromatic_compound_one":[{
+	 "name":"chromatic_compound",
+	 "custom_model_data":6904212,
+	 "texture_size":16
+ }],
+  "create:chromatic_compound_two":[{
+	 "name":"chromatic_compound",
+	 "custom_model_data":6904213,
+	 "texture_size":16
+ }],
+ "create:":[{
+	 "name":"",
+	 "custom_model_data":6904214,
+	 "texture_size":16
+ }],
+ "create:cinder_flour":[{
+	 "name":"cinder_flour",
+	 "custom_model_data":6904215,
+	 "texture_size":16
+ }],
+ "create:clipboard":[{
+	 "name":"clipboard",
+	 "custom_model_data":6904216,
+	 "texture_size":16
+ }],
+ "create:clipboard_and_quill":[{
+	 "name":"clipboard_and_quill",
+	 "custom_model_data":6904217,
+	 "texture_size":16
+ }],
+"create:copper_ingot":[{
+	 "name":"copper_ingot",
+	 "custom_model_data":6904218,
+	 "texture_size":16
+ }],
+"create:copper_nugget":[{
+	 "name":"copper_nugget",
+	 "custom_model_data":6904219,
+	 "texture_size":16
+ }],
+"create:copper_sheet":[{
+	 "name":"copper_sheet",
+	 "custom_model_data":6904220,
+	 "texture_size":16
+ }],
+"create:creative_blaze_cake":[{
+	 "name":"creative_blaze_cake",
+	 "custom_model_data":6904221,
+	 "texture_size":16
+ }],
+"create:crushed_raw_aluminum":[{
+	 "name":"crushed_raw_aluminum",
+	 "custom_model_data":6904222,
+	 "texture_size":16
+ }],
+"create:crushed_raw_copper":[{
+	 "name":"crushed_raw_copper",
+	 "custom_model_data":6904223,
+	 "texture_size":16
+ }],
+"create:crushed_raw_gold":[{
+	 "name":"crushed_raw_gold",
+	 "custom_model_data":6904224,
+	 "texture_size":16
+ }],
+"create:crushed_raw_iron":[{
+	 "name":"crushed_raw_iron",
+	 "custom_model_data":6904225,
+	 "texture_size":16
+ }],
+"create:crushed_raw_lead":[{
+	 "name":"crushed_raw_lead",
+	 "custom_model_data":6904226,
+	 "texture_size":16
+ }],
+"create:crushed_raw_nickel":[{
+	 "name":"crushed_raw_nickel",
+	 "custom_model_data":6904227,
+	 "texture_size":16
+ }],
+"create:crushed_raw_osmium":[{
+	 "name":"crushed_raw_osmium",
+	 "custom_model_data":6904228,
+	 "texture_size":16
+ }],
+"create:crushed_raw_platinum":[{
+	 "name":"crushed_raw_platinum",
+	 "custom_model_data":6904229,
+	 "texture_size":16
+ }],
+"create:crushed_raw_quicksilver":[{
+	 "name":"crushed_raw_quicksilver",
+	 "custom_model_data":6904230,
+	 "texture_size":16
+ }],
+"create:crushed_raw_silver":[{
+	 "name":"crushed_raw_silver",
+	 "custom_model_data":6904231
+	 "texture_size":16
+ }],
+"create:":[{
+	 "name":"",
+	 "custom_model_data":6904232,
+	 "texture_size":16
+ }],
+"create:crushed_raw_tin":[{
+	 "name":"crushed_raw_tin",
+	 "custom_model_data":6904233,
+	 "texture_size":16
+ }],
+"create:crushed_raw_uranium":[{
+	 "name":"crushed_raw_uranium",
+	 "custom_model_data":6904234,
+	 "texture_size":16
+ }],
+"create:crushed_raw_zinc":[{
+	 "name":"crushed_raw_zinc",
+	 "custom_model_data":6904235,
+	 "texture_size":16
+ }],
+"create:dough":[{
+	 "name":"dough",
+	 "custom_model_data":6904236,
+	 "texture_size":16
+ }],
+"create:electron_tube":[{
+	 "name":"electron_tube",
+	 "custom_model_data":6904237,
+	 "texture_size":16
+ }],
+"create:empty_clipboard":[{
+	 "name":"empty_clipboard",
+	 "custom_model_data":6904238,
+	 "texture_size":16
+ }],
+"create:empty_schematic":[{
+	 "name":"empty_schematic",
+	 "custom_model_data":6904239,
+	 "texture_size":16
+ }],
+"create:experience_nugget":[{
+	 "name":"experience_nugget"
+	 "custom_model_data":6904240,
+	 "texture_size":16
+ }],
+"create:extendo_grip":[{
+	 "name":"extendo_grip",
+	 "custom_model_data":6904241,
+	 "texture_size":16
+ }],
+"create:filter":[{
+	 "name":"filter",
+	 "custom_model_data":6904242,
+	 "texture_size":16
+ }],
+"create:furnace_minecart_contraption":[{
+	 "name":"furnace_minecart_contraption",
+	 "custom_model_data":6904243,
+	 "texture_size":16
+ }],
+"create:glass_door":[{
+	 "name":"glass_door",
+	 "custom_model_data":6904244,
+	 "texture_size":16
+ }],
+"create:goggles":[{
+	 "name":"goggles",
+	 "custom_model_data":6904245,
+	 "texture_size":16
+ }],
+"create:goggles_model":[{
+	 "name":"goggles_model",
+	 "custom_model_data":6904246,
+	 "texture_size":16
+ }],
+"create:golden_sheet":[{
+	 "name":"golden_sheet",
+	 "custom_model_data":6904247,
+	 "texture_size":16
+ }],
+"create:honey_bucket":[{
+	 "name":"honey_bucket",
+	 "custom_model_data":6904248,
+	 "texture_size":16
+ }],
+"create:honeyed_apple":[{
+	 "name":"honeyed_apple",
+	 "custom_model_data":6904249,
+	 "texture_size":16
+ }],
+"create:incomplete_precision_mechanism":[{
+	 "name":"incomplete_precision_mechanism",
+	 "custom_model_data":6904250,
+	 "texture_size":16
+ }],
+"create:incomplete_track":[{
+	 "name":"incomplete_track",
+	 "custom_model_data":6904251,
+	 "texture_size":16
+ }],
+"create:integrated_circuit":[{
+	 "name":"integrated_circuit",
+	 "custom_model_data":6904252,
+	 "texture_size":16
+ }],
+"create:iron_sheet":[{
+	 "name":"iron_sheet",
+	 "custom_model_data":6904253,
+	 "texture_size":16
+ }],
+"create:lapis_sheet":[{
+	 "name":"lapis_sheet",
+	 "custom_model_data":6904254,
+	 "texture_size":16
+ }],
+"create:linked_controller":[{
+	 "name":"linked_controller",
+	 "custom_model_data":6904256,
+	 "texture_size":16
+ }],
+"create:linked_controller_powered":[{
+	 "name":"linked_controller_powered",
+	 "custom_model_data":6904257,
+	 "texture_size":16
+ }],
+"create:logistical_dial":[{
+	 "name":"logistical_dial",
+	 "custom_model_data":6904258,
+	 "texture_size":16
+ }],
+"create:logistical_dial_overlay":[{
+	 "name":"logistical_dial_overlay",
+	 "custom_model_data":6904259,
+	 "texture_size":16
+ }],
+"create:minecart_coupling":[{
+	 "name":"minecart_coupling",
+	 "custom_model_data":6904260,
+	 "texture_size":16
+ }],
+"create:netherite_diving_boots":[{
+	 "name":"netherite_diving_boots",
+	 "custom_model_data":6904261,
+	 "texture_size":16
+ }],
+"create:netherite_diving_helmet":[{
+	 "name":"netherite_diving_helmet",
+	 "custom_model_data":6904262,
+	 "texture_size":16
+ }],
+"create:polished_rose_quartz":[{
+	 "name":"polished_rose_quartz",
+	 "custom_model_data":6904263,
+	 "texture_size":16
+ }],
+"create:potato_cannon":[{
+	 "name":"potato_cannon",
+	 "custom_model_data":6904264,
+	 "texture_size":16
+ }],
+"create:powdered_obsidian":[{
+	 "name":"powdered_obsidian",
+	 "custom_model_data":6904265,
+	 "texture_size":16
+ }],
+"create:precision_mechanism":[{
+	 "name":"precision_mechanism",
+	 "custom_model_data":6904266,
+	 "texture_size":16
+ }],
+"create:propeller":[{
+	 "name":"propeller",
+	 "custom_model_data":6904267,
+	 "texture_size":16
+ }],
+"create:raw_zinc":[{
+	 "name":"raw_zinc",
+	 "custom_model_data":6904269,
+	 "texture_size":16
+ }],
+"create:red_sand_paper":[{
+	 "name":"red_sand_paper",
+	 "custom_model_data":6904270,
+	 "texture_size":16
+ }],
+"create:refined_radiance":[{
+	 "name":"refined_radiance",
+	 "custom_model_data":6904271,
+	 "texture_size":16
+ }],
+"create:rose_quartz":[{
+	 "name":"rose_quartz",
+	 "custom_model_data":6904272,
+	 "texture_size":16
+ }],
+"create:sand_paper":[{
+	 "name":"sand_paper",
+	 "custom_model_data":6904273,
+	 "texture_size":16
+ }],
+"create:schedule":[{
+	 "name":"schedule",
+	 "custom_model_data":6904274,
+	 "texture_size":16
+ }],
+"create:schematic":[{
+	 "name":"schematic",
+	 "custom_model_data":6904275,
+	 "texture_size":16
+ }],
+"create:schematic_and_quill":[{
+	 "name":"schematic_and_quill",
+	 "custom_model_data":6904276,
+	 "texture_size":16
+ }],
+"create:shadow_steel":[{
+	 "name":"shadow_steel",
+	 "custom_model_data":6904277,
+	 "texture_size":16
+ }],
+"create:sturdy_sheet":[{
+	 "name":"sturdy_sheet",
+	 "custom_model_data":6904278,
+	 "texture_size":16
+ }],
+"create:super_glue":[{
+	 "name":"super_glue",
+	 "custom_model_data":6904279,
+	 "texture_size":16
+ }],
+"create:sweet_roll":[{
+	 "name":"sweet_roll",
+	 "custom_model_data":6904280,
+	 "texture_size":16
+ }],
+"create:track":[{
+	 "name":"track",
+	 "custom_model_data":6904281,
+	 "texture_size":16
+ }],
+"create:train_door":[{
+	 "name":"train_door",
+	 "custom_model_data":6904282,
+	 "texture_size":16
+ }],
+"create:tree_fertilizer":[{
+	 "name":"tree_fertilizer",
+	 "custom_model_data":6904283,
+	 "texture_size":16
+ }],
+"create:unprocessed_obsidian_sheet":[{
+	 "name":"unprocessed_obsidian_sheet",
+	 "custom_model_data":6904284,
+	 "texture_size":16
+ }],
+"create:wheat_flour":[{
+	 "name":"wheat_flour",
+	 "custom_model_data":6904285,
+	 "texture_size":16
+ }],
+"create:whisk":[{
+	 "name":"whisk",
+	 "custom_model_data":6904286,
+	 "texture_size":16
+ }],
+"create:zinc_ingot":[{
+	 "name":"zinc_ingot",
+	 "custom_model_data":6904287,
+	 "texture_size":16
+ }],
+"create:zinc_nugget":[{
+	 "name":"zinc_nugget",
+	 "custom_model_data":6904288,
+	 "texture_size":16
+ }],
+"create:":[{
+	 "name":"",
+	 "custom_model_data":6904289,
+	 "texture_size":16
+ }],
+ "create:chest_minecart_contraption":[{
+	 "name":"chest_minecart_contraption",
+	 "custom_model_data":6904630,
+	 "texture_size":16
+ }],
+  "create:chocolate_bucket":[{
+	 "name":"chocolate_bucket",
+	 "custom_model_data":6904631,
+	 "texture_size":16
+ }],
+ 
+ "create:andesite_door":[{
+	 "name":"andesite_door",
+	 "custom_model_data":6904632,
+	 "texture_size":16
+ }],
+ "create:belt_connector":[{
+	 "name":"belt_connector",
+	 "custom_model_data":6904632,
+	 "texture_size":16
+ }],
+ "create:brass_door":[{
+	 "name":"brass_door",
+	 "custom_model_data":6904632,
+	 "texture_size":16
+ }],
+ "create:brass_sheet":[{
+	 "name":"brass_sheet",
+	 "custom_model_data":6904632,
+	 "texture_size":16
+ }],
+ "create:blaze_cake":[{
+	 "name":"blaze_cake",
+	 "custom_model_data":6904632,
+	 "texture_size":16
+ }],
+ "create:copper_diving_boots":[{
+	 "name":"copper_diving_boots",
+	 "custom_model_data":6904632,
+	 "texture_size":16
+ }],
+ "create:copper_diving_helmet":[{
+	 "name":"copper_diving_helmet",
+	 "custom_model_data":6904632,
+	 "texture_size":16
+ }],
+ "create:copper_door":[{
+	 "name":"copper_door",
+	 "custom_model_data":6904632,
+	 "texture_size":16
+ }],
+ "create:crafter_slot_cover":[{
+	 "name":"crafter_slot_cover",
+	 "custom_model_data":6904632,
+	 "texture_size":16
+ }],
+ "create:crafting_blueprint":[{
+	 "name":"crafting_blueprint",
+	 "custom_model_data":6904632,
+	 "texture_size":16
+ }],
+ 
+ 
+ 
+ },
+ "blocks": {
+	 "create:andesite_bars": {
+		 "name": "andesite_bars",
+		 "material_instances": {
+			 "*": {
+				 "texture": "andesite_bars",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:andesite_bars_edge": {
+		 "name": "andesite_bars_edge",
+		 "material_instances": {
+			 "*": {
+				 "texture": "andesite_bars_edge",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brass_bars": {
+		 "name": "brass_bars",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brass_bars",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brass_bars_edge": {
+		 "name": "brass_bars_edge",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brass_bars_edge",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:copper_bars": {
+		 "name": "copper_bars",
+		 "material_instances": {
+			 "*": {
+				 "texture": "copper_bars",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:copper_bars_edge": {
+		 "name": "copper_bars_edge",
+		 "material_instances": {
+			 "*": {
+				 "texture": "copper_bars_edge",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:andesite_belt_casing": {
+		 "name": "andesite_belt_casing",
+		 "material_instances": {
+			 "*": {
+				 "texture": "andesite_belt_casing",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:black_diagonal_scroll": {
+		 "name": "black_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "black_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:black_scroll": {
+		 "name": "black_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "black_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:blue_diagonal_scroll": {
+		 "name": "blue_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": blue_diagonal_scroll"",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:blue_scroll": {
+		 "name": "blue_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "blue_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brass_belt_casing": {
+		 "name": "brass_belt_casing",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brass_belt_casing",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brown_diagonal_scroll": {
+		 "name": "brown_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brown_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brown_scroll": {
+		 "name": "brown_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brown_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:cyan_diagonal_scroll": {
+		 "name": "cyan_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "cyan_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:cyan_scroll": {
+		 "name": "cyan_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "cyan_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:gray_diagonal_scroll": {
+		 "name": "gray_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "gray_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:gray_scroll": {
+		 "name": "gray_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "gray_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:green_diagonal_scroll": {
+		 "name": "green_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "green_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:green_scroll": {
+		 "name": "green_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "green_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:light_blue_diagonal_scroll": {
+		 "name": "light_blue_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "light_blue_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:light_blue_scroll": {
+		 "name": "light_blue_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "light_blue_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:light_gray_diagonal_scroll": {
+		 "name": "light_gray_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "light_gray_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:light_gray_scroll": {
+		 "name": "light_gray_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "light_gray_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:lime_diagonal_scroll": {
+		 "name": "lime_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "lime_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:lime_scroll": {
+		 "name": "lime_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "lime_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:magenta_diagonal_scroll": {
+		 "name": "magenta_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "magenta_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:magenta_scroll": {
+		 "name": "magenta_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "magenta_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:orange_diagonal_scroll": {
+		 "name": "orange_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "orange_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:orange_scroll": {
+		 "name": "orange_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "orange_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:pink_diagonal_scroll": {
+		 "name": "pink_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "pink_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:pink_scroll": {
+		 "name": "pink_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "pink_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:purple_diagonal_scroll": {
+		 "name": "purple_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "purple_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:purple_scroll": {
+		 "name": "purple_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "purple_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:red_diagonal_scroll": {
+		 "name": "red_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "red_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:red_scroll": {
+		 "name": "red_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "red_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:white_diagonal_scroll": {
+		 "name": "white_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "white_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:white_scroll": {
+		 "name": "white_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "white_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:yellow_diagonal_scroll": {
+		 "name": "yellow_diagonal_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "yellow_diagonal_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:yellow_scroll": {
+		 "name": "yellow_scroll",
+		 "material_instances": {
+			 "*": {
+				 "texture": "yellow_scroll",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:belt": {
+		 "name": "belt",
+		 "material_instances": {
+			 "*": {
+				 "texture": "belt",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:frame": {
+		 "name": "frame",
+		 "material_instances": {
+			 "*": {
+				 "texture": "frame",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:particle": {
+		 "name": "particle",
+		 "material_instances": {
+			 "*": {
+				 "texture": "particle",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:piston": {
+		 "name": "piston",
+		 "material_instances": {
+			 "*": {
+				 "texture": "piston",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:top": {
+		 "name": "top",
+		 "material_instances": {
+			 "*": {
+				 "texture": "top",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:wheel": {
+		 "name": "wheel",
+		 "material_instances": {
+			 "*": {
+				 "texture": "wheel",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:copper_roof_top": {
+		 "name": "copper_roof_top",
+		 "material_instances": {
+			 "*": {
+				 "texture": "copper_roof_top",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:copper_shingles": {
+		 "name": "copper_shingles",
+		 "material_instances": {
+			 "*": {
+				 "texture": "copper_shingles",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:copper_tiles": {
+		 "name": "copper_tiles",
+		 "material_instances": {
+			 "*": {
+				 "texture": "copper_tiles",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:exposed_copper_roof_top": {
+		 "name": "exposed_copper_roof_top",
+		 "material_instances": {
+			 "*": {
+				 "texture": "exposed_copper_roof_top",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:exposed_copper_shingles": {
+		 "name": "exposed_copper_shingles",
+		 "material_instances": {
+			 "*": {
+				 "texture": "exposed_copper_shingles",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:exposed_copper_tiles": {
+		 "name": "exposed_copper_tiles",
+		 "material_instances": {
+			 "*": {
+				 "texture": "exposed_copper_tiles",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:oxidized_copper_shingles": {
+		 "name": "oxidized_copper_shingles",
+		 "material_instances": {
+			 "*": {
+				 "texture": "oxidized_copper_shingles",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:oxidized_copper_tiles": {
+		 "name": "oxidized_copper_tiles",
+		 "material_instances": {
+			 "*": {
+				 "texture": "oxidized_copper_tiles",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:weathered_copper_roof_top": {
+		 "name": "weathered_copper_roof_top",
+		 "material_instances": {
+			 "*": {
+				 "texture": "weathered_copper_roof_top",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:weathered_copper_shingles": {
+		 "name": "weathered_copper_shingles",
+		 "material_instances": {
+			 "*": {
+				 "texture": "weathered_copper_shingles",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:weathered_copper_tiles": {
+		 "name": "weathered_copper_tiles",
+		 "material_instances": {
+			 "*": {
+				 "texture": "weathered_copper_tiles",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:oxidized_copper_roof_top": {
+		 "name": "oxidized_copper_roof_top",
+		 "material_instances": {
+			 "*": {
+				 "texture": "oxidized_copper_roof_top",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:powered_latch": {
+		 "name": "powered_latch",
+		 "material_instances": {
+			 "*": {
+				 "texture": "powered_latch",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:powered_toggle_latch": {
+		 "name": "powered_toggle_latch",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:powered_toggle_latch": {
+		 "name": "powered_toggle_latch",
+		 "material_instances": {
+			 "*": {
+				 "texture": "powered_toggle_latch",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:pulse_extender": {
+		 "name": "pulse_extender",
+		 "material_instances": {
+			 "*": {
+				 "texture": "pulse_extender",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:pulse_repeater": {
+		 "name": "pulse_repeater",
+		 "material_instances": {
+			 "*": {
+				 "texture": "pulse_repeater",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brass_diode_base": {
+		 "name": "brass_diode_base",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brass_diode_base",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:andesite_funnel": {
+		 "name": "andesite_funnel",
+		 "material_instances": {
+			 "*": {
+				 "texture": "andesite_funnel",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:andesite_funnel_frame": {
+		 "name": "andesite_funnel_frame",
+		 "material_instances": {
+			 "*": {
+				 "texture": "andesite_funnel_frame",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:andesite_funnel_neutral": {
+		 "name": "andesite_funnel_neutral",
+		 "material_instances": {
+			 "*": {
+				 "texture": "andesite_funnel_neutral",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:andesite_funnel_powered": {
+		 "name": ":andesite_funnel_powered",
+		 "material_instances": {
+			 "*": {
+				 "texture": ":andesite_funnel_powered",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:andesite_funnel_pull": {
+		 "name": "andesite_funnel_pull",
+		 "material_instances": {
+			 "*": {
+				 "texture": "andesite_funnel_pull",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:andesite_funnel_push": {
+		 "name": "andesite_funnel_push",
+		 "material_instances": {
+			 "*": {
+				 "texture": "andesite_funnel_push",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:andesite_funnel_unpowered": {
+		 "name": "andesite_funnel_unpowered",
+		 "material_instances": {
+			 "*": {
+				 "texture": "andesite_funnel_unpowered",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brass_funnel_frame": {
+		 "name": "brass_funnel_frame",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brass_funnel_frame",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brass_funnel_neutral": {
+		 "name": "brass_funnel_neutral",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brass_funnel_neutral",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brass_funnel_powered": {
+		 "name": "brass_funnel_powered",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brass_funnel_powered",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brass_funnel_pull": {
+		 "name": "brass_funnel_pull",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brass_funnel_pull",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brass_funnel_push": {
+		 "name": "brass_funnel_push",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brass_funnel_push",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brass_funnel_unpowered": {
+		 "name": "brass_funnel_unpowered",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brass_funnel_unpowered",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:brass_funnel": {
+		 "name": "brass_funnel",
+		 "material_instances": {
+			 "*": {
+				 "texture": "brass_funnel",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:copper_funnel_frame": {
+		 "name": "copper_funnel_frame",
+		 "material_instances": {
+			 "*": {
+				 "texture": "copper_funnel_frame",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:funnel_back": {
+		 "name": "funnel_back",
+		 "material_instances": {
+			 "*": {
+				 "texture": "funnel_back",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:funnel_closed": {
+		 "name": "funnel_closed",
+		 "material_instances": {
+			 "*": {
+				 "texture": "funnel_closed",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:funnel_open": {
+		 "name": "funnel_open",
+		 "material_instances": {
+			 "*": {
+				 "texture": "funnel_open",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:indicator": {
+		 "name": "indicator",
+		 "material_instances": {
+			 "*": {
+				 "texture": "indicator",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+"create:": {
+		 "name": "",
+		 "material_instances": {
+			 "*": {
+				 "texture": "",
+				 "render_method": "alpha_test",
+				 "face_dimming": true,
+				 "ambient_occlusion": true
+
+				 
+			 }
+		 }
+	 },
+ }
+
+ 
+}
+
+
